@@ -2,10 +2,10 @@
 #EXTINF:-1 tvg-chno-"1",SI TV
 https://5e85d90130e77.streamlock.net/6024/6024/.m3u8
 
-#EXTINF:-1 tvg-chno-"2",EXPREZION
-https://srv3.zcast.com.br/expreszion/expreszion/.m3u8
+#EXTINF:-1 tvg-chno-"2",TELEMAX COSTA RICA
+https://www.webmedialive.org:1936/8024/8024/.m3u8
 
-#EXTINF:-1 tvg-chno-"3",EXPREZION
-https://srv3.zcast.com.br/expreszion/expreszion/.m3u8
+#EXTINF:-1 tvg-chno-"3",ACV MOVIES
+https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/.m3u8 
 
 
