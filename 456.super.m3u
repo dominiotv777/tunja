@@ -8,8 +8,7 @@ https://cnnsanjuan.com:9999/live/telesol/woplay/telesoludp2_720p/chunks.m3u8
 #EXTINF:-1 tvg-chno-"3",QUATRO TV
 https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/.m3u8
 
-#EXTINF:-1 tvg-chno-"4",
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkasstwvo/hdntl=exp=1622484643~acl=%2f*~data=hdntl~hmac=112c856012c3801d69db073f8aad54e54e308c6559fcb968021dcda5e463a380/master570.m3u8
-
+#EXTINF:-1 tvg-chno-"4",AMERICA TV PUERTO RICO
+https://tna5.bozztv.com/ACVTV/index.m3u8  
 
 
