@@ -8,7 +8,7 @@ https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/.m3u8
 #EXTINF:-1 tvg-chno-"3",TV MAX 13
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/.m3u8
 
-#EXTINF:-1 tvg-chno-"4",28 Alsacias
-https://emisoras.hn:8081/atv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno-"4",28 NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 
 
