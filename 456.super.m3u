@@ -17,8 +17,8 @@ https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno-"6",IMAGEN
 https://cloudflare.streamgato.us:3809/live/iutvlive.m3u8
 
-#EXTINF:-1 tvg-chno-"7", NET TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-chno-"7", CANAL 10TV ARGENTINA
+https://panel.dattalive.com/8204/8204/chunklist_w580047878.m3u8 
 
 
 
