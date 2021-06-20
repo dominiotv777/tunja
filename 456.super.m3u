@@ -5,8 +5,8 @@ https://admdn1ta.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/.m3u8
 #EXTINF:-1 tvg-chno-"2",TELAVISION
 https://stream.oursnetworktv.com/latin/telaVision/.m3u8
 
-#EXTINF:-1 tvg-chno-"3",CANAL 11 DE LA COSTA
-https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
+#EXTINF:-1 tvg-chno-"3",MEGA TV 50
+https://stream.oursnetworktv.com/latin/megaTv/.m3u8 
 
 #EXTINF:-1 tvg-chno-"4",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
