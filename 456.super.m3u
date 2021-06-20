@@ -8,7 +8,7 @@ https://stream.oursnetworktv.com/latin/telaVision/.m3u8
 #EXTINF:-1 tvg-chno-"3",MEGA TV 50
 https://stream.oursnetworktv.com/latin/megaTv/.m3u8 
 
-#EXTINF:-1 tvg-chno-"4",NET TV
+#EXTINF:-1 tvg-chno-"4",CANAL 16 MAS TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"5",ENTELEVISION
