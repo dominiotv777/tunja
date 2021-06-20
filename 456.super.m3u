@@ -20,8 +20,8 @@ https://cnnsanjuan.com:9999/live/telesol/woplay/telesoludp2_720p/chunks.m3u8
 #EXTINF:-1 tvg-chno-"8", CANAL 28 ALSACIAS
 https://emisoras.hn:8081/atv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno-"9", CANAL 10TV ARGENTINA
-https://panel.dattalive.com/8204/8204/chunklist_w580047878.m3u8 
+#EXTINF:-1 tvg-chno-"9", CANA TV
+https://www.hostokilive.com:19360/8002/8002.m3u8
 
 #EXTINF:-1 tvg-chno-"10", CANAL 10TV ARGENTINA
 https://panel.dattalive.com/8204/8204/chunklist_w580047878.m3u8 
