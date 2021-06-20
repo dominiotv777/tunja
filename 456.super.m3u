@@ -11,8 +11,8 @@ https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 #EXTINF:-1 tvg-chno-"4",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"5", DTV
-https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno-"5",ENTELEVISION
+https://panel.streamingtv-mediacp.online:1936/8162/8162/.m3u8
 
 #EXTINF:-1 tvg-chno-"6",TELESOL ARGENTINA
 https://cnnsanjuan.com:9999/live/telesol/woplay/telesoludp2_720p/chunks.m3u8
