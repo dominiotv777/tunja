@@ -11,8 +11,8 @@ https://stream.oursnetworktv.com/latin/megaTv/.m3u8
 #EXTINF:-1 tvg-chno-"4",CANAL 16 MAS TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"5",ENTELEVISION
-https://panel.streamingtv-mediacp.online:1936/8162/8162/.m3u8
+#EXTINF:-1 tvg-chno-"5",CANAL 34
+https://stream.oursnetworktv.com/latin/Canal34/.m3u8
 
 #EXTINF:-1 tvg-chno-"6",15 TV MEXICO
 https://hls.gvstream.live/telesistemas/15tv.stream/.m3u8
