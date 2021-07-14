@@ -11,8 +11,8 @@ https://stream.oursnetworktv.com/latin/megaTv/.m3u8
 #EXTINF:-1 tvg-chno-"4",CANAL CXN MALACATAN
 https://stream.oursnetworktv.com/latin/cxnGTM/.m3u8
 
-#EXTINF:-1 tvg-chno-"5",CANAL 34
-https://stream.oursnetworktv.com/latin/Canal34/.m3u8
+#EXTINF:-1 tvg-chno-"5",TICA VISION
+https://59ef525c24caa.streamlock.net/HBTV/HBTV/.m3u8
 
 #EXTINF:-1 tvg-chno-"6",CNR.TV
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8 
