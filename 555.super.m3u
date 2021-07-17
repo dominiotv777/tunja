@@ -11,8 +11,8 @@ https://unlimited1-us.dps.live/girovisual2/girovisual2.smil/girovisual2/livestre
 #EXTINF:-1 tvg-chno-"4",PENIEL KIDS
 https://stream.oursnetworktv.com/latin/2mApKids&yUYoungy0/.m3u8
 
-#EXTINF:-1 tvg-chno-"5",TICA VISION
-https://59ef525c24caa.streamlock.net/HBTV/HBTV/.m3u8
+#EXTINF:-1 tvg-chno-"5"STV CANAL FAMILIAR
+http://209.126.105.158:1935/stv/web/.m3u8
 
 #EXTINF:-1 tvg-chno-"6",CSTV
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/.m3u8
