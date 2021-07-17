@@ -20,8 +20,8 @@ https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/.m3u8
 #EXTINF:-1 tvg-chno-"8", VISION 3000
 https://ss3.domint.net:3102/v3_str/v3000/.m3u8 
 
-#EXTINF:-1 tvg-chno-"9",TELEMAX CANAL 32
-https://stream.oursnetworktv.com/latin/teleMax/.m3u8
+#EXTINF:-1 tvg-chno-"9",CANAL 15
+https://stream.oursnetworktv.com/latin/encoder32/.m3u8
 
 #EXTINF:-1 tvg-chno-"10",PAT
 https://5975e06a1f292.streamlock.net:4443/patbolivia/patlapaz/.m3u8 
