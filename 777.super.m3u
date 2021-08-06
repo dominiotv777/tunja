@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno-"1",ADS SPORTS 1
-https://admdn1ta.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/.m3u8
+#EXTINF:-1 tvg-chno-"1",MILENIUM
+https://videoairetafi.turadioonline.com.ar:5443/LiveApp/streams/490106569518876444904284.m3u8 
 
-#EXTINF:-1 tvg-chno-"2",REC ONLINE
-https://master.tucableip.com/reconline/live/video.m3u8?_=1 
+#EXTINF:-1 tvg-chno-"2",ROMANA
+http://tv.romanatv42.com/hls/live.m3u8
 
 #EXTINF:-1 tvg-chno-"3",GIROVISUAL
 https://unlimited1-us.dps.live/girovisual2/girovisual2.smil/girovisual2/livestream1/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"4",PENIEL KIDS
-https://stream.oursnetworktv.com/latin/2mApKids&yUYoungy0/.m3u8
+#EXTINF:-1 tvg-chno-"4",DELTA TV
+https://cm.hostlagarto.com:4445/deltatv/deltatv50.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"5"STV CANAL FAMILIAR
 http://209.126.105.158:1935/stv/web/.m3u8
