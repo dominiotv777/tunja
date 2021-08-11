@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno-"1",MILENIUM
-https://videoairetafi.turadioonline.com.ar:5443/LiveApp/streams/490106569518876444904284.m3u8 
+#EXTINF:-1 tvg-chno-"1",TALTAL TV
+https://ed5ov.live.opencaster.com/xBwCmtEjAibA/index.m3u8 
 
 #EXTINF:-1 tvg-chno-"2",ROMANA
 http://tv.romanatv42.com/hls/live.m3u8
