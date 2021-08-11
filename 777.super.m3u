@@ -8,8 +8,8 @@ https://stream.animaxla.club/hls/kanade.m3u8
 #EXTINF:-1 tvg-chno-"3",GIROVISUAL
 https://unlimited1-us.dps.live/girovisual2/girovisual2.smil/girovisual2/livestream1/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"4",DELTA TV
-https://cm.hostlagarto.com:4445/deltatv/deltatv50.myStream/chunks.m3u8
+#EXTINF:-1 tvg-chno-"4",RAKUTEN TV FAMILIA
+http:\\rakuten-family-2-es.samsung.wurl.com\manifest\playlist.m3u8
 
 #EXTINF:-1 tvg-chno-"5"STV CANAL FAMILIAR
 http://209.126.105.158:1935/stv/web/.m3u8
