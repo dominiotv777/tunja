@@ -11,7 +11,7 @@ https:\\service-stitcher.clusters.pluto.tv\stitch\hls\channel\5ddd7c348520b40009
 #EXTINF:-1 tvg-chno-"4",RAKUTEN TV FAMILIA
 http:\\rakuten-family-2-es.samsung.wurl.com\manifest\playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"5"STV CANAL FAMILIAR
+#EXTINF:-1 tvg-chno-"5",STV CANAL FAMILIAR
 http://209.126.105.158:1935/stv/web/.m3u8
 
 #EXTINF:-1 tvg-chno-"6",ANIME ACCION
