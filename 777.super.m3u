@@ -44,9 +44,12 @@ https://medios.sirtel.cl/live/stream/index.m3u8
 #EXTINF:-1 tvg-chno-"16",FRECUENCIA LATINA
 https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8
 
-#EXTINF:-1 tvg-chno-"11",RUGLAS CRECIDOS (TEMPORADAS)
+#EXTINF:-1 tvg-chno-"17",TELESUR COSTA RICA
+https://59ef525c24caa.streamlock.net/telesur/telesur/.m3u8
 
-#EXTINF:-1 tvg-chno-"11",RUGLAS CRECIDOS (TEMPORADAS)
+#EXTINF:-1 tvg-chno-"18",TCTV
+https://www.amixtv.com:8081/tctv/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-chno-"11",RUGLAS CRECIDOS (TEMPORADAS)
 
