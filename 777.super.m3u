@@ -29,6 +29,27 @@ https:\\service-stitcher.clusters.pluto.tv\v1\stitch\embed\hls\channel\6054acc87
 #EXTINF:-1 tvg-chno-"11",RUGLAS CRECIDOS (TEMPORADAS)
 https:\\service-stitcher.clusters.pluto.tv\stitch\hls\channel\5ea7215005d66d0007e8128a\master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=77eecfd8-e31f-4f76-8c76-40f8cfe0d86a&userId=&serverSideAds=true
 
+#EXTINF:-1 tvg-chno-"12",ACV
+https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/.m3u8
+
+#EXTINF:-1 tvg-chno-"13",ROMANA TV
+http://tv.romanatv42.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-chno-"14",VISION TV GUATEMALA
+http://64.71.148.2:1935/latin/visionTVGtm/.m3u8
+
+#EXTINF:-1 tvg-chno-"15",LTV
+https://medios.sirtel.cl/live/stream/index.m3u8
+
+#EXTINF:-1 tvg-chno-"16",FRECUENCIA LATINA
+https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8
+
+#EXTINF:-1 tvg-chno-"11",RUGLAS CRECIDOS (TEMPORADAS)
+
+#EXTINF:-1 tvg-chno-"11",RUGLAS CRECIDOS (TEMPORADAS)
+
+#EXTINF:-1 tvg-chno-"11",RUGLAS CRECIDOS (TEMPORADAS)
+
 
 
 
