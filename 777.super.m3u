@@ -38,7 +38,7 @@ http://tv.romanatv42.com/hls/live.m3u8
 #EXTINF:-1 tvg-chno-"14",VISION TV GUATEMALA
 http://64.71.148.2:1935/latin/visionTVGtm/.m3u8
 
-#EXTINF:-1 tvg-chno-"15",CELESTE CHANEL
+#EXTINF:-1 tvg-chno-"15",CELESTE CHANNEL
 https://inliveserver.com:1936/15004/15004/.m3u8 
 
 #EXTINF:-1 tvg-chno-"16",FRECUENCIA LATINA
