@@ -53,7 +53,8 @@ https://www.amixtv.com:8081/tctv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno-"11",SERIES RETRO
 https:\\service-stitcher.clusters.pluto.tv\stitch\hls\channel\5de802659167b10009e7deba\master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=d58eeaee-46d5-4edb-b70d-aca926769183&userId=&serverSideAds=true
 
-
+#EXTINF:-1 tvg-chno-"11",rakuten comedia
+https:\\rakuten-comedymovies-2-es.samsung.wurl.com\manifest\playlist.m3u8
 
 
 
