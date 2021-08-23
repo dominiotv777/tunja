@@ -19,6 +19,7 @@ https:\\service-stitcher.clusters.pluto.tv\stitch\hls\channel\5e6a4d875d7ccf0007
 
 #EXTINF:-1 tvg-chno-"8", ANIMIXTV
 https://www.youtube.com/api/stats/qoe?event=streamingstats&fmt=134&afmt=251&cpn=mpjsw8CS1W5-ZVKj&ei=LCYkYZDMB7qczLUP9b-06AY&el=embedded&docid=FRZSLlt1p98&ns=yt&fexp=23858057%2C23983296%2C24001373%2C24002022%2C24002025%2C24002923%2C24004644%2C24007246%2C24053866%2C24060921%2C24079211%2C24080738%2C24082661%2C24090770&cl=391623642&seq=3&cbr=Chrome&cbrver=92.0.4515.131&c=WEB_EMBEDDED_PLAYER&cver=1.20210818.1.0&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&vps=40.077:PL&bwm=40.077:2846506:1.007&bwe=40.077:1645097&bat=40.077:1:1&vis=40.077:0&cmt=40.077:36.064&bh=40.077:63.943&df=40.077:4
+
 #EXTINF:-1 tvg-chno-"9",TV ANIME
 https:\\service-stitcher.clusters.pluto.tv\v1\stitch\embed\hls\channel\608035b8d8705f0007260287\master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
@@ -37,8 +38,8 @@ http://tv.romanatv42.com/hls/live.m3u8
 #EXTINF:-1 tvg-chno-"14",VISION TV GUATEMALA
 http://64.71.148.2:1935/latin/visionTVGtm/.m3u8
 
-#EXTINF:-1 tvg-chno-"15",CELESTE CHANNEL
-https://inliveserver.com:1936/15004/15004/.m3u8 
+#EXTINF:-1 tvg-chno-"15",MAGIG (LEYENDAS ANIMADAS)
+https://live.admefy.com/live/default/clean_peach_ef224.m3u8
 
 #EXTINF:-1 tvg-chno-"16",telesistema
 http://196.19.126.41:25461/live/KAV6D6tnyu/00QLbDdwKn/52133.m3u8?token=HkNcWEBYFAkUBAoCBFlXAAUEUwMHCVFWVFAEBgVWBFEBAlZcC1YCCwISH0ZAFRFRUwtoXlQaXgZQUAACH0dHQAATa1BXEgwRDgUKUQRDTxZGD1pSEgJUH0ARWlURXxAAVFkFABEcFFZORFYWXQAPa1YDQV5TXUYJDBRfXR9HXV06BVFUUl5SEQwSAkYfQwpHQkQNWUVUCB9AA1pFQQRGVkdbFggCBQYRGhJQC0YPF0ZLRA0Vc3dGH0AES0VWC0FaCg8WAxFdBUYOEh9GWhI8RlcVQ0VVWQlWEEMJEwNHHhEIAExmUF9YXVNTRw1cDxAWCEQEFRwaCVwMCEdeQTpCWgFDDhsAAQAGBhJO
