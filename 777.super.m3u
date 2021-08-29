@@ -102,7 +102,8 @@ http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/.m3u8
 #EXTINF:-1 tvg-chno-"25",CALETA TV
 https://cdn4.hostlagarto.com:8081/static/lacaletatv/chunks.m3u8 
 
-#EXTINF:-1 tvg-chno-"16",TELESIETE
+#EXTINF:-1 tvg-chno-"16",TELEAMAZONAS
+https://playback.akamaized.net/streams/1359588_4428723_lsihxsoluuvewv39arw_1/media/1359588_4428723_lsihxsoluuvewv39arw_1@2756000p.m3u8?dw=14400&ts=1630267200&hdnts=exp=1630440635~acl=/streams/1359588_4428723_lsihxsoluuvewv39arw_1/media*~hmac=0ab77e7e18c69757e5038293ef1cd969baaecc626abcd524436f9149f58ca06b
 
 #EXTINF:-1 tvg-chno-"16",TELESIETE
 
