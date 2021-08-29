@@ -71,3 +71,41 @@ https://unlimited1-us.dps.live/estaciontv/estaciontv.smil/estaciontv/livestream2
 
 #EXTINF:-1 tvg-chno-"16",TELESIETE
 https://gt-chapintv-canal7-live.ned.media/chapintv/smil:canal7.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMwMjkxMDYxLCJzZXNzaW9uIjoiMTgxLjUwLjM3LjU1Iiwid2hpdGVsaXN0IjpbIjE4MS41MC4zNy41NSIsIjI4MDA6NDg0OmIzN2E6NGQwMDphOWQ2Ojc1ZGM6OTExYjoxNTZkIl19LCJzaWduYXR1cmUiOiI3NzI4NzIyMjNhNzAwODU2NGUyOWQzOTFjNjg4NjViYzVjOTU2YjJhIn0%3D
+
+#EXTINF:-1 tvg-chno-"17",TELENOVISA
+http://ramgolive.ddns.net:1935/telenovisa43/telenovisa43/.m3u8
+
+#EXTINF:-1 tvg-chno-"18",EVASTREAM
+https://stmv.panel.mivideo.pro/evastream/evastream/.m3u8 
+
+#EXTINF:-1 tvg-chno-"19",CANAL 66 TELEMAR
+https://stream.oursnetworktv.com/latin/canal66/.m3u8 
+
+#EXTINF:-1 tvg-chno-"16",MAS TV CANAL 16
+https://stream.oursnetworktv.com/latin/canaL16/.m3u8 
+
+#EXTINF:-1 tvg-chno-"20",REC ONLINE
+https://master.tucableip.com/reconline/live/video.m3u8?_=1 
+
+#EXTINF:-1 tvg-chno-"21",SOLTELEVISION USA
+https://soltvusa.com/soltvsp/ngrp:soltelevisionsp_all/.m3u8
+
+#EXTINF:-1 tvg-chno-"22",HMTV
+https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-chno-"23",CINE TELECARIBE
+https://cloudflare.streamgato.us:3689/live/telecaribehdlive.m3u8  
+
+#EXTINF:-1 tvg-chno-"24",CENTRAL TV
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/.m3u8 
+
+#EXTINF:-1 tvg-chno-"25",CALETA TV
+https://cdn4.hostlagarto.com:8081/static/lacaletatv/chunks.m3u8 
+
+#EXTINF:-1 tvg-chno-"16",TELESIETE
+
+#EXTINF:-1 tvg-chno-"16",TELESIETE
+
+#EXTINF:-1 tvg-chno-"16",TELESIETE
+
+#EXTINF:-1 tvg-chno-"16",TELESIETE
