@@ -102,13 +102,53 @@ http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/.m3u8
 #EXTINF:-1 tvg-chno-"25",CALETA TV
 https://cdn4.hostlagarto.com:8081/static/lacaletatv/chunks.m3u8 
 
-#EXTINF:-1 tvg-chno-"16",TELEAMAZONAS
+#EXTINF:-1 tvg-chno-"26",TELEAMAZONAS
 https://playback.akamaized.net/streams/1359588_4428723_lsihxsoluuvewv39arw_1/media/1359588_4428723_lsihxsoluuvewv39arw_1@2756000p.m3u8?dw=14400&ts=1630267200&hdnts=exp=1630440635~acl=/streams/1359588_4428723_lsihxsoluuvewv39arw_1/media*~hmac=0ab77e7e18c69757e5038293ef1cd969baaecc626abcd524436f9149f58ca06b
 
-#EXTINF:-1 tvg-chno-"16", TELEMICRO VIVA 5
+#EXTINF:-1 tvg-chno-"27", TELEMICRO VIVA 5
 https://playback.akamaized.net/streams/28126860_8825282_lsiehtg0nq06j3pypxs_1/media/28126860_8825282_lsiehtg0nq06j3pypxs_1@2128000p.m3u8?dw=14400&ts=1630270800&hdnts=exp=1630444581~acl=/streams/28126860_8825282_lsiehtg0nq06j3pypxs_1/media*~hmac=3ec2e68539a4524f5d453f7af536c0c9eead63a6c09b31e4a4ffaf5334c6729b
 
-#EXTINF:-1 tvg-chno-"16",TELECENTRO VIVA
+#EXTINF:-1 tvg-chno-"28",TELECENTRO VIVA
 https://playback.akamaized.net/streams/28126860_9438854_lsia8r7mvso015cjzqr_1/media/28126860_9438854_lsia8r7mvso015cjzqr_1@2128000p.m3u8?dw=14400&ts=1630270800&hdnts=exp=1630445206~acl=/streams/28126860_9438854_lsia8r7mvso015cjzqr_1/media*~hmac=98515e83f1e3a4a9a52b77f994848402b0171e336a0706fdcfe44515129ed37f
 
-#EXTINF:-1 tvg-chno-"16",TELESIETE
+#EXTINF:-1 tvg-chno-"29",VISION 3000
+https://ss3.domint.net:3102/v3_str/v3000/.m3u8 
+
+#EXTINF:-1 tvg-chno-"30",VISION 63
+https://ss3.domint.net:3120/dv6_str/digitalvision/.m3u8
+
+#EXTINF:-1 tvg-chno-"31",DAN TV
+https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-chno-"32",VISION TV RD
+https://cloudflare.streamgato.us:3750/live/tvvisionlive.m3u8
+
+#EXTINF:-1 tvg-chno-"32",VALLEVISION
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/.m3u8 
+
+#EXTINF:-1 tvg-chno-"33",DELTA
+https://cm.hostlagarto.com:4445/deltatv/deltatv50.myStream/chunks.m3u8 
+
+#EXTINF:-1 tvg-chno-"34",TENARENSES
+https://vdo2.streamgato.us:3541/live/tenarensestvlive.m3u8 
+
+#EXTINF:-1 tvg-chno-"35",NPTV
+https://vdo1.streamgato.us:3149/live/nptvhdlive.m3u8 
+
+#EXTINF:-1 tvg-chno-"34",
+
+#EXTINF:-1 tvg-chno-"34",
+
+#EXTINF:-1 tvg-chno-"34",
+
+#EXTINF:-1 tvg-chno-"34",
+
+#EXTINF:-1 tvg-chno-"34",
+
+#EXTINF:-1 tvg-chno-"34",
+
+#EXTINF:-1 tvg-chno-"34",
+
+#EXTINF:-1 tvg-chno-"34",
+
+
