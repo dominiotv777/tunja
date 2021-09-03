@@ -168,11 +168,14 @@ https://co-e7-p-e-cl2.cdn.mdstrm.com/live-stream/58d18bd236e5f69e5887332b/publis
 #EXTINF:-1 tvg-chno-"46",france 24
 http:\\static.france24.com\live\F24_ES_LO_HLS\live_web.m3u8
 
-#EXTINF:-1 tvg-chno-"45",CARACOL
+#EXTINF:-1 tvg-chno-"47",telesur venezuela
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno-"45",CARACOL
+#EXTINF:-1 tvg-chno-"48",dw
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-chno-"45",CARACOL
+#EXTINF:-1 tvg-chno-"45",rt
+  https://rt-esp.gcdn.co/live/rtesp/playlist_2500Kb.m3u8
 
 #EXTINF:-1 tvg-chno-"45",CARACOL
 
