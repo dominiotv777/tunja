@@ -189,4 +189,6 @@ https://eu1.servers10.com:8081/8110/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno-"50",ready
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/.m3u8
 
-#EXTINF:-1 tvg-chno-"45",CARACOL
+#EXTINF:-1 tvg-chno-"45",ATV MAS
+https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/chunklist_b1024000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMwODk0Mjc2LCJzZXNzaW9uIjoiMTgxLjU1LjcwLjI3Iiwid2hpdGVsaXN0IjpbIjE4MS41NS43MC4yNyJdfSwic2lnbmF0dXJlIjoiM2QxNTJhZTYwYmUxZTY2Y2RkYzQzZmNlZjgzMjlmYWY2YTBkYTRkYSJ9
+
