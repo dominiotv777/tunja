@@ -186,6 +186,7 @@ https://cm.hostlagarto.com:4445/rocavisiondominicana/Dominicanahd.myStream/chunk
 #EXTINF:-1 tvg-chno-"49",boreal
 https://eu1.servers10.com:8081/8110/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno-"45",CARACOL
+#EXTINF:-1 tvg-chno-"50",ready
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/.m3u8
 
 #EXTINF:-1 tvg-chno-"45",CARACOL
