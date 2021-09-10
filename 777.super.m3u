@@ -210,7 +210,8 @@ https://cloud2.streaminglivehd.com:1936/8002/8002/.m3u8
 #EXTINF:-1 tvg-chno-"58",canal 10 la imagen
 https://stream.oursnetworktv.com/latin/Canal10tvt/.m3u8 
 
-#EXTINF:-1 tvg-chno-"55",xtvplus
+#EXTINF:-1 tvg-chno-"59",cana tv digital
+https://hostokilive.com:19360/8002/8002.m3u8
 
 #EXTINF:-1 tvg-chno-"55",xtvplus
 
