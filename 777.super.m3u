@@ -216,7 +216,8 @@ https://hostokilive.com:19360/8002/8002.m3u8
 #EXTINF:-1 tvg-chno-"55",santos tv
 http://tiquiciatv.com:1935/lstv/web/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno-"55",xtvplus
+#EXTINF:-1 tvg-chno-"55",BAHIA TV
+https://livestream.com/accounts/18988261/events/7725211/player?width=800&height=400&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false
 
 #EXTINF:-1 tvg-chno-"55",xtvplus
 
