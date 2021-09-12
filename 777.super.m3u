@@ -222,9 +222,10 @@ https://livestream.com/accounts/18988261/events/7725211/player?width=800&height=
 #EXTINF:-1 tvg-chno-"57",UNIKA TV
 https://video.misistemareseller.com/unikatv/unikatv/chunklist_w883162908.m3u8
 
-#EXTINF:-1 tvg-chno-"55",unika tv 2
+#EXTINF:-1 tvg-chno-"58",unika tv 2
 https://video.misistemareseller.com/unikatv/unikatv/.m3u8
 
-#EXTINF:-1 tvg-chno-"55",xtvplus
+#EXTINF:-1 tvg-chno-"59",telecibao
+https://cm.hostlagarto.com:4445/Telecibao/Telecibao/chunks.m3u8?nimblesessionid=334669537&DVR
 
 #EXTINF:-1 tvg-chno-"55",xtvplus
