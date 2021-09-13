@@ -226,6 +226,7 @@ https://video.misistemareseller.com/unikatv/unikatv/chunklist_w883162908.m3u8
 https://video.misistemareseller.com/unikatv/unikatv/.m3u8
 
 #EXTINF:-1 tvg-chno-"59",telecibao
-https://cm.hostlagarto.com:4445/Telecibao/Telecibao/chunks.m3u8?nimblesessionid=334669537&DVR
+https://cm.hostlagarto.com:4445/Telecibao/Telecibao/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"55",xtvplus
+#EXTINF:-1 tvg-chno-"60",ra
+https://ssai06a.broadcastcdn.net/hlslive/CLOUDIETV-RATHERGOODLOL-001/1/CLOUDIETV-RATHERGOODLOL-001.m3u8?profID=96&n=1&ctype=0&adsid=AXL8EeFCYyUDA_vSEE-Z&chname=CLOUDIETV-RATHERGOODLOL-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=10.20.30.48%3A8081.m3u8
