@@ -235,7 +235,7 @@ https://ssai06a.broadcastcdn.net/hlslive/CLOUDIETV-RATHERGOODLOL-001/1/CLOUDIETV
 https://cloudflare.streamgato.us:3352/live/ghtelevisionhdlive.m3u8
 
 #EXTINF:-1 tvg-chno-"62",dt
-https://api.pcloud.com/getpubthumb?code=XZox7qXZb9mBdydCa0jSwxxJRCv2Tz6meQYX&linkpassword=undefined&size=600x480&crop=0&type=auto
+https://api.pcloud.com/getpubthumb?code=XZox7qXZb9mBdydCa0jSwxxJRCv2Tz6meQYX&linkpassword=undefined&size=600x480&crop=0&type=auto.m3u8
 
 #EXTINF:-1 tvg-chno-"60",ra
 
