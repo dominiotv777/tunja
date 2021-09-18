@@ -246,4 +246,15 @@ http://amixtv.com:8080/galaxiatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno-"60",SUR TV
 https://stream.oursnetworktv.com/latin/Surtv/.m3u8 
 
-#EXTINF:-1 tvg-chno-"60",ra
+#EXTINF:-1 tvg-chno-"60", XHKG TV
+https://stream.oursnetworktv.com/latin/encoder73/.m3u8  
+
+#EXTINF:-1 tvg-chno-"60", 5900
+https://stmvideo1.livecastv.com/canal5/canal5/.m3u8 
+
+
+
+
+
+
+
