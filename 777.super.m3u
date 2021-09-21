@@ -252,7 +252,7 @@ https://stream.oursnetworktv.com/latin/encoder73/.m3u8
 #EXTINF:-1 tvg-chno-"60", 5900
 https://stmvideo1.livecastv.com/canal5/canal5/.m3u8 
 
-#EXTINF:-1 tvg-chno-"60",RETRO PLAY
+#EXTINF:-1 tvg-chno-"60", RETRO PLAY
 https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
 
 
