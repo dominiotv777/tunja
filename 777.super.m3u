@@ -231,11 +231,11 @@ https://cm.hostlagarto.com:4445/Telecibao/Telecibao/chunks.m3u8
 #EXTINF:-1 tvg-chno-"60",ra
 https://ssai06a.broadcastcdn.net/hlslive/CLOUDIETV-RATHERGOODLOL-001/1/CLOUDIETV-RATHERGOODLOL-001.m3u8?profID=96&n=1&ctype=0&adsid=AXL8EeFCYyUDA_vSEE-Z&chname=CLOUDIETV-RATHERGOODLOL-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=10.20.30.48%3A8081.m3u8
 
-#EXTINF:-1 tvg-chno-"61",GHTV
-https://cloudflare.streamgato.us:3352/live/ghtelevisionhdlive.m3u8
+#EXTINF:-1 tvg-chno-"61",dt 1
+https://p-def8.pcloud.com/cfZm1uMoeZPLfQgxZWrE87ZZvx83v7ZQ5ZZesRZZ7HqUy7ZXRZqzZ05ZmVZCHZbpZ9zZw7Z6HZQzZzXZypZCpZaVZCrDHFMDJ6aR7aGFGIAarfJmkNN70/Th7e.Mis8fits.2021.%20%28DS%29.mkv
 
-#EXTINF:-1 tvg-chno-"62",dt
-https://api.pcloud.com/getpubthumb?code=XZox7qXZb9mBdydCa0jSwxxJRCv2Tz6meQYX&linkpassword=undefined&size=600x480&crop=0&type=auto.m3u8
+#EXTINF:-1 tvg-chno-"62",dt 2
+https://p-def3.pcloud.com/cfZ6tt9oeZxAu8gxZWrE87ZZfC83v7ZQ5ZZesRZZ0mSTy7ZGzZ5RZe0Zr5ZLHZX0Zl7ZipZzXZSRZVJZxHZu5ZWzZdcvF1j4OHuVtj8c7GCaPahAyxtPy/Ba7tm7an.Th8e.L9ong.Hallo8we9en.P8art.One.2021.%20%28DS%29.mkv
 
 #EXTINF:-1 tvg-chno-"63",CANAL 28 ALSACIAS 
 https://emisoras.hn:8081/atv/tracks-v1a1/mono.m3u8 
