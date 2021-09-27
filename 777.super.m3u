@@ -122,8 +122,8 @@ https://ss3.domint.net:3120/dv6_str/digitalvision/.m3u8
 #EXTINF:-1 tvg-chno-"31",DAN TV
 https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"31",DAN TV  EX
-https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/chunks.m3u8?nimblesessionid=348011571&DVR
+#EXTINF:-1 tvg-chno-"31",RPC PM
+https://us-b5-p-e-kj2.cdn.mdstrm.com/live-stream-dai/ec85b4776cab428cac904251d14ed492/manifest/f624fec49dadc88894ebeff1d974eab019af7757/5d88d659120a717cf93ce620/e058f5e1-6c5a-4496-bd7f-42adaeb0146f/2.m3u8?aid=5d409041e10de808a34fce18&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAxOSA3OjAyOjU4IFBNJmhhc2hfdmFsdWU9Z0M5WWRUUFJhQlNIdWwySTltaGtlUT09JnZhbGlkbWludXRlcz0zNjA%3D&pid=HDww9oCaKaMaxcyMOHOEp35KJIiWxo5w&sid=Uev8KOMklhiGjrZo3UWvN2osJRndc3Lm&uid=tGuGZQcZa6bIhhybySgAwDjGZ9xR7FyS&es=co-e7-p-e-cl2.cdn.mdstrm.com&ote=1632854239874&ot=O-8bOhsnvi9l2QWmslOoxw&proto=https&pz=us
 
 #EXTINF:-1 tvg-chno-"32",VISION TV RD
 https://cloudflare.streamgato.us:3750/live/tvvisionlive.m3u8
