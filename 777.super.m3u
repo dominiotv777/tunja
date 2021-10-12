@@ -275,9 +275,8 @@ http://server3.prostudionetwork.com:1945/teleunion/TU/.m3u8
 #EXTINF:-1 tvg-chno-"61",TELEVEN
 https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8 
 
-#EXTINF:-1 tvg-chno-"61",ben 10
-https://861138008.tapecontent.net/radosgw/Bak1WxvzQ3fya1L/i4seGTeY9ppTJXeDMGuSr68mcahZO4OkY6Gq0LM3KLUrm0t04pnj2CJ6xX-OY0GMVMk05Jb3Fv8t5Ju8Ztqsix1Wn7XPJ8CU9hRaq2Z8dqvufEiGK_IDSfVJdslP2shj1laK_PF3ygCF7lffqbQmDG6BHimBR07F3cQgS1Z_e1zXeWeF1BrorWFjARjmoMN1Bp_UrGaFQGKqEQd1AczDuUO1weqr_3VI-OqtzaSJnMb8dvq03L7v48td389D7tGxJruW07GkAfbDD8YrJ89bYZL2MiZJ52AdUeBRRA/BEN-01x01+-+Serieslan.com.mp4?stream=1
-
+#EXTINF:-1 tvg-chno-"61",ALSACIAS
+https://emisoras.hn:8081/atv/tracks-v1a1/mono.m3u8
 
 
 
