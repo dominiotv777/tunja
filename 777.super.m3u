@@ -275,8 +275,8 @@ http://server3.prostudionetwork.com:1945/teleunion/TU/.m3u8
 #EXTINF:-1 tvg-chno-"61",TELEVEN
 https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8 
 
-#EXTINF:-1 tvg-chno-"61",ALSACIAS
-https://emisoras.hn:8081/atv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno-"61",TEMUCO
+https://5eff35271151c.streamlock.net:1936/8038/8038/.m3u8
 
 
 
