@@ -29,8 +29,8 @@ https:\\service-stitcher.clusters.pluto.tv\v1\stitch\embed\hls\channel\6054acc87
 #EXTINF:-1 tvg-chno-"11",RUGLAS CRECIDOS (TEMPORADAS)
 https:\\service-stitcher.clusters.pluto.tv\stitch\hls\channel\5ea7215005d66d0007e8128a\master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=77eecfd8-e31f-4f76-8c76-40f8cfe0d86a&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-chno-"12",LIM TV
-https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
+#EXTINF:-1 tvg-chno-"12",5 STV
+https://v4.tustreaming.cl/stv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno-"13",ROMANA TV
 http://tv.romanatv42.com/hls/live.m3u8
