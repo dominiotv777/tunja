@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno-"1",ANIMIXX
-https://s17.fastream.to/hls/cawdc7bdxgfhjaemkwn4zvvpfff6kovogmrje6w55tybgug5rauk5y2tae3a/index-v1-a1.m3u8,https://s17.fastream.to/hls/cawdbt5vxcfhjaemkwemzx7voqx2b4fo5xz33htlnunhyqlnu36u7oztsj2q/index-v1-a1.m3u8
+https://s17.fastream.to/hls/cawdpr7fxcfhjaemkwgmzs5qnqhkskzgvoves66zf,ccyyc27pfcval367qkq,iuyyc27pfcu6cor3dsa,.urlset/master.m3u8
 
 #EXTINF:-1 tvg-chno-"2",TV COSTA CL
 https://hd.chileservidores.cl:1936/tvcosta1/tvcosta1/.m3u8
