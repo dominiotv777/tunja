@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno-"1",IP
-https://cdnh8.iblups.com/hls/OVJNKV4pSr14828.m3u8
+#EXTINF:-1 tvg-chno-"1",cnr
+ <!-- Inicio. streaming tv radio hosting USAstreams.com html5 player --><video id=usastreams-video  keyLicencia="2854361USAstreams.COM" crossorigin="anonymous"  class="video-js vjs-fluid vjs-default-skin" autoplay controls poster = 'https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8'><source src="https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8" type="application/x-mpegURL"></video>    <link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">    <script type="text/javascript" src ="https://unpkg.com/video.js/dist/video.js"></script>    <script type="text/javascript" src ="https://cp.usastreams.com/playerHTML5/ContadorVideo.js"></script>    <script src="https://unpkg.com/videojs-contrib-hls/dist/videojs-contrib-hls.js"></script>    <script>      (function(window, videojs) {        var player = window.player = videojs('usastreams-video');          return false;        }      (window, window.videojs));    </script><!-- Fin. USAstreams.com html5 player -->
 
 #EXTINF:-1 tvg-chno-"2",TV COSTA CL
 https://hd.chileservidores.cl:1936/tvcosta1/tvcosta1/.m3u8
