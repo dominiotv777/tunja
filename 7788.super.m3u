@@ -15,25 +15,25 @@ http:\\rakuten-family-2-es.samsung.wurl.com\manifest\playlist.m3u8
 http://209.126.105.158:1935/stv/web/.m3u8
 
 #EXTINF:-1 tvg-chno-"6",DTV
-https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8 
+https://emisoras.hn:8081/dtv/index.m3u8 
 
 #EXTINF:-1 tvg-chno-"8",RETRO PLAY
 http://v4.tustreaming.cl/retroplaytv/index.m3u8
 
 #EXTINF:-1 tvg-chno-"9",DMJ
-https://v4.tustreaming.cl/s1tv/tracks-v1a1/mono.m3u8
+https://v4.tustreaming.cl/s1tv/index.m3u8
 
 #EXTINF:-1 tvg-chno-"10",CEACTV
 https://hd.chileservidores.cl:1936/ceactv/ceactv/.m3u8 
 
 #EXTINF:-1 tvg-chno-"11",BELLA ABANQUINA TV
-https://v4.tustreaming.cl/bellatv/tracks-v1a1/mono.m3u8 
+https://v4.tustreaming.cl/bellatv/index.m3u8 
 
 #EXTINF:-1 tvg-chno-"12",5 STV
-https://v4.tustreaming.cl/stv/tracks-v1a1/mono.m3u8
+https://v4.tustreaming.cl/stv/index.m3u8
 
 #EXTINF:-1 tvg-chno-"13",CREOTV
-https://srv1.mediastreamperu.com:8081/creotv/tracks-v1a1/rewind-3600.m3u8
+https://srv1.mediastreamperu.com:8081/creotv/index.m3u8
 
 #EXTINF:-1 tvg-chno-"14",TVES VENEZUELA
 https://edge1o.live.opencaster.com/caster/erCkqDzdGzpj.m3u8
