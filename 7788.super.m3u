@@ -21,7 +21,7 @@ https://emisoras.hn:8081/dtv/index.m3u8
 http://v4.tustreaming.cl/retroplaytv/index.m3u8
 
 #EXTINF:-1 tvg-chno-"9",DMJ
-https:\\v4.tustreaming.cl\s1tv\index.m3u8
+https://v4.tustreaming.cl/s1tv/index.m3u8
 
 #EXTINF:-1 tvg-chno-"10",CEACTV
 https://hd.chileservidores.cl:1936/ceactv/ceactv/.m3u8 
