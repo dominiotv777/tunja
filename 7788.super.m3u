@@ -33,7 +33,7 @@ http://v4.tustreaming.cl/bellatv/index.m3u8
 https://v4.tustreaming.cl/stv/index.m3u8
 
 #EXTINF:-1 tvg-chno-"13",CREOTV
-http://srv1.mediastreamperu.com:8081/creotv/index.m3u8
+https://srv1.mediastreamperu.com:8081/creotv/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-chno-"14",TVES VENEZUELA
 https://edge1o.live.opencaster.com/caster/erCkqDzdGzpj.m3u8
@@ -89,7 +89,7 @@ https://master.tucableip.com/reconline/live/video.m3u8?_=1
 #EXTINF:-1 tvg-chno-"21",SOLTELEVISION USA
 https://soltvusa.com/soltvsp/ngrp:soltelevisionsp_all/.m3u8
 
-#EXTINF:-1 tvg-chno-"22",HMTV
+#EXTINF:-1 tvg-chno-"22",HMT
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"22",HMTV EX
