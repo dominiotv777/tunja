@@ -33,7 +33,7 @@ http://v4.tustreaming.cl/bellatv/index.m3u8
 https://v4.tustreaming.cl/stv/index.m3u8
 
 #EXTINF:-1 tvg-chno-"13",CREOTV
-https://srv1.mediastreamperu.com:8081/creotv/index.m3u8
+http://srv1.mediastreamperu.com:8081/creotv/index.m3u8
 
 #EXTINF:-1 tvg-chno-"14",TVES VENEZUELA
 https://edge1o.live.opencaster.com/caster/erCkqDzdGzpj.m3u8
