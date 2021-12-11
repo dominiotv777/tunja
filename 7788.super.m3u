@@ -15,7 +15,7 @@ http:\\rakuten-family-2-es.samsung.wurl.com\manifest\playlist.m3u8
 http://209.126.105.158:1935/stv/web/.m3u8
 
 #EXTINF:-1 tvg-chno-"6",DTV
-http://emisoras.hn:8081/dtv/index.m3u8 
+https://emisoras.hn:8081/dtv/index.m3u8 
 
 #EXTINF:-1 tvg-chno-"8",RETRO PLAY
 http://v4.tustreaming.cl/retroplaytv/index.m3u8
