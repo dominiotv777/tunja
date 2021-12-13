@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno-"1",LIVE TCTV
+#EXTINF:-1 tvg-chno-"1",LIVE TCTV1
 http:\\www.amixtv.com:8081\tctv\index.m3u8 
 
 #EXTINF:-1 tvg-chno-"2",TV COSTA CL
