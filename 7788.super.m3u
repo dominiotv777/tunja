@@ -41,11 +41,11 @@ https://edge1o.live.opencaster.com/caster/erCkqDzdGzpj.m3u8
 #EXTINF:-1 tvg-chno-"15",MAGIG (LEYENDAS ANIMADAS)
 https://live.admefy.com/live/default/clean_peach_ef224.m3u8
 
-#EXTINF:-1 tvg-chno-"16",telesistema
-http://196.19.126.41:25461/live/KAV6D6tnyu/00QLbDdwKn/52133.m3u8?token=HkNcWEBYFAkUBAoCBFlXAAUEUwMHCVFWVFAEBgVWBFEBAlZcC1YCCwISH0ZAFRFRUwtoXlQaXgZQUAACH0dHQAATa1BXEgwRDgUKUQRDTxZGD1pSEgJUH0ARWlURXxAAVFkFABEcFFZORFYWXQAPa1YDQV5TXUYJDBRfXR9HXV06BVFUUl5SEQwSAkYfQwpHQkQNWUVUCB9AA1pFQQRGVkdbFggCBQYRGhJQC0YPF0ZLRA0Vc3dGH0AES0VWC0FaCg8WAxFdBUYOEh9GWhI8RlcVQ0VVWQlWEEMJEwNHHhEIAExmUF9YXVNTRw1cDxAWCEQEFRwaCVwMCEdeQTpCWgFDDhsAAQAGBhJO
+#EXTINF:-1 tvg-chno-"16",TV MAX
+https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/profile_3/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno-"17",TELESUR COSTA RICA
-https://59ef525c24caa.streamlock.net/telesur/telesur/.m3u8
+#EXTINF:-1 tvg-chno-"17",TV MAX PA
+https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/profile_3/c44947c8e36f469d82a04d773a14803f/chunklist_dvr_ssaiV.m3u8
 
 #EXTINF:-1 tvg-chno-"18",TCTV
 https://www.amixtv.com:8081/tctv/tracks-v1a1/mono.m3u8
