@@ -9,7 +9,7 @@ https://hd.chileservidores.cl:1936/tvcosta1/tvcosta1/.m3u8
 https://cp.sradiotv.com:1936/8078/8078/.m3u8 
 
 #EXTINF:-1 tvg-chno-"4",TELEBAHIA
-http:\\api.new.livestream.com\accounts\18988261\events\7725211\live.m3u8?Playlist173815391
+http:\\api.new.livestream.com\accounts\18988261\events\7725211\live.m3u8?Playlist
 
 #EXTINF:-1 tvg-chno-"5",STV CANAL FAMILIAR
 http://209.126.105.158:1935/stv/web/.m3u8
