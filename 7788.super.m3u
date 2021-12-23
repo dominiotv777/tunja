@@ -23,8 +23,8 @@ http://v4.tustreaming.cl/retroplaytv/index.m3u8
 #EXTINF:-1 tvg-chno-"9",DMJ
 http://v4.tustreaming.cl/s1tv/index.m3u8
 
-#EXTINF:-1 tvg-chno-"10",CEACTV
-https://hd.chileservidores.cl:1936/ceactv/ceactv/.m3u8 
+#EXTINF:-1 tvg-chno-"10",INFOLIBRES TV
+https://videohd.live:19360/8020/8020.m3u8
 
 #EXTINF:-1 tvg-chno-"11",BELLA ABANQUINA TV
 http://v4.tustreaming.cl/bellatv/index.m3u8 
