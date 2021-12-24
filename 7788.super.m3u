@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno-"1",LIVE TCTV1
-http:\\www.amixtv.com:8081\tctv\index.m3u8 
+#EXTINF:-1 tvg-chno-"1", 9 NORTE MISIONERO
+https://panel.dattalive.com/8076/8076/.m3u8  
 
 #EXTINF:-1 tvg-chno-"2",TV COSTA CL
 https://hd.chileservidores.cl:1936/tvcosta1/tvcosta1/.m3u8
@@ -8,8 +8,8 @@ https://hd.chileservidores.cl:1936/tvcosta1/tvcosta1/.m3u8
 #EXTINF:-1 tvg-chno-"3",UNITEL
 https://cp.sradiotv.com:1936/8078/8078/.m3u8 
 
-#EXTINF:-1 tvg-chno-"4",TELEBAHIA
-http:\\api.new.livestream.com\accounts\18988261\events\7725211\live.m3u8?Playlist
+#EXTINF:-1 tvg-chno-"4",ITV INTERAMERICANA
+https://servers.amelbasoluciones.co:19360/itvchannel/itvchannel.m3u8
 
 #EXTINF:-1 tvg-chno-"5",STV CANAL FAMILIAR
 http://209.126.105.158:1935/stv/web/.m3u8
