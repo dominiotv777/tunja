@@ -38,8 +38,8 @@ https://srv1.mediastreamperu.com:8081/creotv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-chno-"14",URANIO
 https://live.obslivestream.com/uraniomux/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno-"15",MAGIG (LEYENDAS ANIMADAS)
-https://live.admefy.com/live/default/clean_peach_ef224.m3u8
+#EXTINF:-1 tvg-chno-"15",CANAL 7 SALTA
+https://589ff3c36f7e8.streamlock.net/crespo3/crespo3/.m3u8
 
 #EXTINF:-1 tvg-chno-"16",TV MAX
 https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/profile_1/chunklist.m3u8
@@ -47,17 +47,17 @@ https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/60580
 #EXTINF:-1 tvg-chno-"18",TCTV
 https://www.amixtv.com:8081/tctv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno-"11",SERIES RETRO
-https:\\service-stitcher.clusters.pluto.tv\stitch\hls\channel\5de802659167b10009e7deba\master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=d58eeaee-46d5-4edb-b70d-aca926769183&userId=&serverSideAds=true
+#EXTINF:-1 tvg-chno-"11",CONSTANZA TV
+https://ss9.domint.net:3026/ctv8_str/contanzatv/.m3u8
 
-#EXTINF:-1 tvg-chno-"12",teleantillas
-http://196.19.126.41:25461/live/KAV6D6tnyu/00QLbDdwKn/52129.m3u8?token=HkNcWEBYFAkUCFFVVVEBBFFQBwYFD1NQUlMEBQJcAwJQUwIIVQkEAgQSH0ZAFRFRUwtoXlQaXgZQUAEIH0dHQAATa1BXEgwRDgUKUQRDTxZGD1pSEgJUH0ARWlURXxABUFQCDhEcFFZORFYWXQAPa1YDQV5TXUYJDBRfXR9HXV06BVFUUl5SEQwSAkYfQwpHQkQNWUVUCB9AA1pFQQRGVkdbFgAFCRQfFFNcEV0VEU0QXBV0fxpIEQcZR1RdFltcC0MOG14DQwsUHBENQD4RUUESRVJRVQFBQFsRARFJEF4EGWtaXF5YVlVEWgtdEkEOEFUVGxJVC10LFVxDbBVbV0dbFgsGBQYEFE0=
+#EXTINF:-1 tvg-chno-"12",RADIO DIGITAL TV
+https://inliveserver.com:1936/10022/10022/.m3u8
 
-#EXTINF:-1 tvg-chno-"12",PLANETA JUNIOR 2
-https:\\service-stitcher.clusters.pluto.tv\v1\stitch\embed\hls\channel\609501978c069d00074e0dd2\master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 tvg-chno-"12",TELEVER CANAL 12
+https://megastreamm.com:3484/live/televerlive.m3u8
 
-#EXTINF:-1 tvg-chno-"13",SPOTLIGHT
-https://rakuten-spotlight-2-es.samsung. ... ylist.m3u8
+#EXTINF:-1 tvg-chno-"13",MEGA TV CANAL 44
+https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/.m3u8 
 
 #EXTINF:-1 tvg-chno-"14",TONNIZAKI
 https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
