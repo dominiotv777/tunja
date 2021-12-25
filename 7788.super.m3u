@@ -11,7 +11,7 @@ https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1 tvg-chno-"4",ITV INTERAMERICANA
 https://servers.amelbasoluciones.co:19360/itvchannel/itvchannel.m3u8
 
-#EXTINF:-1 tvg-chno-"5",STV CANAL FAMILIAR
+#EXTINF:-1 tvg-chno-"5",CANAL 57 CL
 http://209.126.105.158:1935/stv/web/.m3u8
 
 #EXTINF:-1 tvg-chno-"6",DTV
@@ -29,8 +29,8 @@ https://videohd.live:19360/8020/8020.m3u8
 #EXTINF:-1 tvg-chno-"11",BELLA ABANQUINA TV
 http://v4.tustreaming.cl/bellatv/index.m3u8 
 
-#EXTINF:-1 tvg-chno-"12",5 STV
-https://v4.tustreaming.cl/stv/index.m3u8
+#EXTINF:-1 tvg-chno-"12",TV MAULE
+https://cloud2.streaminglivehd.com:1936/8002/8002/.m3u8 
 
 #EXTINF:-1 tvg-chno-"13",CREOTVv
 https://srv1.mediastreamperu.com:8081/creotv/tracks-v1a1/index.m3u8
