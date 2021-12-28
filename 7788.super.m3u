@@ -32,8 +32,8 @@ http://v4.tustreaming.cl/bellatv/index.m3u8
 #EXTINF:-1 tvg-chno-"12",TV MAULE
 https://cloud2.streaminglivehd.com:1936/8002/8002/.m3u8 
 
-#EXTINF:-1 tvg-chno-"13",CREOTVv
-https://srv1.mediastreamperu.com:8081/creotv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-chno-"13", CRTV PE
+http://live.obslivestream.com/crtvmux/index.m3u8
 
 #EXTINF:-1 tvg-chno-"14",URANIO
 https://live.obslivestream.com/uraniomux/tracks-v1a1/mono.m3u8
