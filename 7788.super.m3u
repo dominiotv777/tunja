@@ -59,8 +59,8 @@ https://megastreamm.com:3484/live/televerlive.m3u8
 #EXTINF:-1 tvg-chno-"13",MEGA TV CANAL 44
 https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/.m3u8 
 
-#EXTINF:-1 tvg-chno-"14",TONNIZAKI
-https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
+#EXTINF:-1 tvg-chno-"14",TVS RD
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"15",ESTACIONTV
 https://unlimited1-us.dps.live/estaciontv/estaciontv.smil/estaciontv/livestream2/chunks.m3u8
