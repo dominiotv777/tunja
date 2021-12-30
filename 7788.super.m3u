@@ -101,11 +101,11 @@ http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/.m3u8
 #EXTINF:-1 tvg-chno-"25",CALETA TV
 https://cdn4.hostlagarto.com:8081/static/lacaletatv/chunks.m3u8 
 
-#EXTINF:-1 tvg-chno-"26",TCTV 11
-http://www.amixtv.com:8081/tctv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno-"26",TCTV 111
+https://www.amixtv.com:8081/tctv/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-chno-"27", TCTV 2
-https://www.amixtv.com:8081/tctv/index.m3u8 
+http://www.amixtv.com:8081/tctv/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-chno-"28",TCTV 3
 https:\\www.amixtv.com:8081\tctv\index.m3u8 
