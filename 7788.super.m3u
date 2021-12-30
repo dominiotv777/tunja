@@ -42,7 +42,7 @@ https://live.obslivestream.com/uraniomux/tracks-v1a1/mono.m3u8
 https://589ff3c36f7e8.streamlock.net/crespo3/crespo3/.m3u8
 
 #EXTINF:-1 tvg-chno-"16",TV MAX
-http:\\bcovlive-a.akamaihd.net\7482a528b34142c9a11b4285307632d0\us-west-2/6058004209001\profile_1\chunklist.m3u8
+https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/profile_0/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno-"18",TCTV
 https://www.amixtv.com:8081/tctv/tracks-v1a1/mono.m3u8
