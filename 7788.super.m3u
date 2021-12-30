@@ -14,8 +14,8 @@ https://servers.amelbasoluciones.co:19360/itvchannel/itvchannel.m3u8
 #EXTINF:-1 tvg-chno-"5",CANAL 57 CL
 https://593b04c4c5670.streamlock.net/8148/8148/.m3u8 
 
-#EXTINF:-1 tvg-chno-"6",DTV
-https://emisoras.hn:8081/dtv/index.m3u8 
+#EXTINF:-1 tvg-chno-"6",CANAL 41 TELEVISION
+	https://stmv.panel.grupolimalive.com/surtv/surtv/.m3u8
 
 #EXTINF:-1 tvg-chno-"8",RETRO PLAY
 http://v4.tustreaming.cl/retroplaytv/index.m3u8
