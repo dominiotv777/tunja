@@ -74,20 +74,20 @@ http://ramgolive.ddns.net:1935/telenovisa43/telenovisa43/.m3u8
 #EXTINF:-1 tvg-chno-"18",EVASTREAM
 https://stmv.panel.mivideo.pro/evastream/evastream/.m3u8 
 
-#EXTINF:-1 tvg-chno-"19",CANAL 66 TELEMAR
-https://stream.oursnetworktv.com/latin/canal66/.m3u8 
+#EXTINF:-1 tvg-chno-"19",TV SUR CANAL 9 CR
+http:\\tv.ticosmedia.com:1935\TVSUR\TVSUR\playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"16",MAS TV CANAL 16
-https://stream.oursnetworktv.com/latin/canaL16/.m3u8 
+#EXTINF:-1 tvg-chno-"16",VIA TELEVISION TARAPOTO
+https:\\5ee0faac3bbae.streamlock.net\viatv2021\viatv2021\playlist.m3u8 
 
-#EXTINF:-1 tvg-chno-"20",REC ONLINE
-https://master.tucableip.com/reconline/live/video.m3u8?_=1 
+#EXTINF:-1 tvg-chno-"20",TELE2000
+https:\\mediastreamm.com:3126\live\tele2000live.m3u8 
 
 #EXTINF:-1 tvg-chno-"21",SOLTELEVISION USA
 https://soltvusa.com/soltvsp/ngrp:soltelevisionsp_all/.m3u8
 
-#EXTINF:-1 tvg-chno-"22",HMT
-https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
+#EXTINF:-1 tvg-chno-"22",TOP FM (ATALAYA) PE
+https:\\tvdatta.com:3084\live\toptvaguaytialive.m3u8
 
 #EXTINF:-1 tvg-chno-"22",HMTV EX
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8?nimblesessionid=348006808&DVR
