@@ -101,8 +101,8 @@ http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/.m3u8
 #EXTINF:-1 tvg-chno-"25",CALETA TV
 https://cdn4.hostlagarto.com:8081/static/lacaletatv/chunks.m3u8 
 
-#EXTINF:-1 tvg-chno-"26",boing
-https://live.mitele.es/hls/live/2005334/boing/01.m3u8
+#EXTINF:-1 tvg-chno-"26",TELEMILENIO O SANTIAGOTV36
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"27",boing
 http://live.mitele.es/hls/live/2005334/boing/01.m3u8
