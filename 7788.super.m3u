@@ -107,8 +107,8 @@ http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/chunks.m3u8
 #EXTINF:-1 tvg-chno-"27",ATV MAS
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/.m3u8
 
-#EXTINF:-1 tvg-chno-"28",CARACOL
-https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1 tvg-chno-"28",F
+https://ybruvxmxrysuvwdv.wzcdn431.net:8443/hls/hdbxpkwtd5456.m3u8?s=cntakfsRXP4H_bLfzpwhMw&e=1642395889
 
 #EXTINF:-1 tvg-chno-"29",VISION 3000
 https://ss3.domint.net:3102/v3_str/v3000/.m3u8 
