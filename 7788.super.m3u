@@ -134,8 +134,8 @@ https://cm.hostlagarto.com:4445/deltatv/deltatv50.myStream/chunks.m3u8
 #EXTINF:-1 tvg-chno-"34",TENARENSES
 https://vdo2.streamgato.us:3541/live/tenarensestvlive.m3u8 
 
-#EXTINF:-1 tvg-chno-"35",NPTV
-https://vdo1.streamgato.us:3149/live/nptvhdlive.m3u8 
+#EXTINF:-1 tvg-chno-"35",PALMERAS
+https://srv.panelcast.net/palmerastv/palmerastv/.m3u8
 
 #EXTINF:-1 tvg-chno-"36",MULTIVISION
 https://panel.dattalive.com/8250/8250/.m3u8
@@ -176,8 +176,8 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 #EXTINF:-1 tvg-chno-"48",dw
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-chno-"46",rt
- https://rt-esp.gcdn.co/live/rtesp/playlist_2500Kb.m3u8
+#EXTINF:-1 tvg-chno-"46",CAJAMARCA
+http://tv.siete.us/cajamarcatv/cajamarcatv/index.m3u8  
 
 #EXTINF:-1 tvg-chno-"47",c21
 https://tls.cdnz.cl/canal21tv/live/.m3u8   
@@ -221,8 +221,8 @@ http://tiquiciatv.com:1935/lstv/web/chunklist.m3u8
 #EXTINF:-1 tvg-chno-"56",BAHIA TV
 https://livestream.com/accounts/18988261/events/7725211/player?width=800&height=400&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false
 
-#EXTINF:-1 tvg-chno-"57",UNIKA TV
-https://video.misistemareseller.com/unikatv/unikatv/chunklist_w883162908.m3u8
+#EXTINF:-1 tvg-chno-"57",MULTIVISION RD
+https://cdn2.streamgato.us/canalmultivision/canalmultivision/playlist.m3u8 
 
 #EXTINF:-1 tvg-chno-"58",unika tv 2
 https://video.misistemareseller.com/unikatv/unikatv/.m3u8
