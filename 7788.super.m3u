@@ -215,11 +215,11 @@ https://stream.oursnetworktv.com/latin/Canal10tvt/.m3u8
 #EXTINF:-1 tvg-chno-"59",cana tv digital
 https://hostokilive.com:19360/8002/8002.m3u8
 
-#EXTINF:-1 tvg-chno-"55",santos tv
-http://tiquiciatv.com:1935/lstv/web/chunklist.m3u8
+#EXTINF:-1 tvg-chno-"55",TOP FM 
+https:\\tvdatta.com:3084\live\toptvaguaytialive.m3u8 
 
-#EXTINF:-1 tvg-chno-"56",BAHIA TV
-https://livestream.com/accounts/18988261/events/7725211/player?width=800&height=400&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false
+#EXTINF:-1 tvg-chno-"56",rn12
+https://5ee0faac3bbae.streamlock.net/rntelevision/rntelevision/.m3u8 
 
 #EXTINF:-1 tvg-chno-"57",MULTIVISION RD
 https://cdn2.streamgato.us/canalmultivision/canalmultivision/playlist.m3u8 
@@ -257,8 +257,8 @@ https://stmvideo1.livecastv.com/canal5/canal5/.m3u8
 #EXTINF:-1 tvg-chno-"60", RETRO PLAY
 https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno-"61",FOREVER
-https://www.youtube.com/watch?v=v9ufZJUmDko
+#EXTINF:-1 tvg-chno-"61",OK TEVE
+https://stmv.panel.grupolimalive.com/wesdey3/wesdey3/.m3u8 
 
 #EXTINF:-1 tvg-chno-"61",NORTE MISIONERO
 https://panel.dattalive.com/8076/8076/.m3u8
