@@ -230,14 +230,14 @@ https://video.misistemareseller.com/unikatv/unikatv/.m3u8
 #EXTINF:-1 tvg-chno-"59",telecibao
 https://cm.hostlagarto.com:4445/Telecibao/Telecibao/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"60",ra
-https://ssai06a.broadcastcdn.net/hlslive/CLOUDIETV-RATHERGOODLOL-001/1/CLOUDIETV-RATHERGOODLOL-001.m3u8?profID=96&n=1&ctype=0&adsid=AXL8EeFCYyUDA_vSEE-Z&chname=CLOUDIETV-RATHERGOODLOL-001&pub=7ea6075b-8f90-46b7-abe4-9b830055de48&acsurl=10.20.30.48%3A8081.m3u8
+#EXTINF:-1 tvg-chno-"60",GUACARA TV
+https://cloudflare.streamgato.us:3103/live/guacaratvlive.m3u8 
 
-#EXTINF:-1 tvg-chno-"61",dt 1
-https://www630.ff-02.com/token=Ntv7sJ-qyPE67mUdpja0nw/1632371317/181.55.0.0/27/1/f0/213fbb0ade11fd390b89fd235a7fdf01-480p.mp4
+#EXTINF:-1 tvg-chno-"61",ENERGEEK
+https://stmv1.voxhdnet.com/energeek/energeek/.m3u8
 
-#EXTINF:-1 tvg-chno-"62",dt 2
-https://www2021.ff-05.com/token=TyKoe6Pi27cjumOzXrFfGQ/1632371120/181.55.0.0/174/d/a9/60bb26a4e627c17eac69f4ea262dca9d-480p.mp4
+#EXTINF:-1 tvg-chno-"62",SANTIVITO TELEVISION
+https://stmv1.srvif.com/sanvito/sanvito/.m3u8 
 
 #EXTINF:-1 tvg-chno-"63",CANAL 28 ALSACIAS 
 https://emisoras.hn:8081/atv/tracks-v1a1/mono.m3u8 
