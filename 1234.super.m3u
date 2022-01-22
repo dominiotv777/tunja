@@ -155,8 +155,8 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 #EXTINF:-1 tvg-chno-"41", ANIME ZONA
 https://azxtv.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-chno-"42", TALTAL TV
-https://ed5ov.live.opencaster.com/xBwCmtEjAibA/index.m3u8
+#EXTINF:-1 tvg-chno-"42",VAMISA TV
+http://vps1.lnx.pe/vamisa/envivo/index.m3u8
 
 #EXTINF:-1 tvg-chno-"43",oromar
 https://stream.oromartv.com/hls/oromartv_hi/index.m3u8
@@ -233,8 +233,8 @@ https://cm.hostlagarto.com:4445/Telecibao/Telecibao/chunks.m3u8
 #EXTINF:-1 tvg-chno-"60",GUACARA TV
 https://cloudflare.streamgato.us:3103/live/guacaratvlive.m3u8 
 
-#EXTINF:-1 tvg-chno-"61",ENERGEEK
-https://stmv1.voxhdnet.com/energeek/energeek/.m3u8
+#EXTINF:-1 tvg-chno-"61",QUILLAVISION
+http:\\v4.tustreaming.cl\quillavision\index.m3u8 
 
 #EXTINF:-1 tvg-chno-"62",SANTIVITO TELEVISION
 https://stmv1.srvif.com/sanvito/sanvito/.m3u8 
@@ -251,8 +251,8 @@ https://stream.oursnetworktv.com/latin/Surtv/.m3u8
 #EXTINF:-1 tvg-chno-"60", XHKG TV
 https://stream.oursnetworktv.com/latin/encoder73/.m3u8  
 
-#EXTINF:-1 tvg-chno-"60", 5900
-https://stmvideo1.livecastv.com/canal5/canal5/.m3u8 
+#EXTINF:-1 tvg-chno-"60",MATICES
+http:\\v4.tustreaming.cl\matices\index.m3u8   
 
 #EXTINF:-1 tvg-chno-"60", RETRO PLAY
 https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
@@ -260,8 +260,8 @@ https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno-"61",OK TEVE
 https://stmv.panel.grupolimalive.com/wesdey3/wesdey3/.m3u8 
 
-#EXTINF:-1 tvg-chno-"61",NORTE MISIONERO
-https://panel.dattalive.com/8076/8076/.m3u8
+#EXTINF:-1 tvg-chno-"61",KBO QUILLABAMBA
+https:\\cdnhd.iblups.com\hls\YGpW43RUOD.m3u8
 
 #EXTINF:-1 tvg-chno-"61",SOMOS DEL ESTE
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/chunklist_w1097469454.m3u8
@@ -272,8 +272,8 @@ http://server3.prostudionetwork.com:1945/teleunion/TU/.m3u8
 #EXTINF:-1 tvg-chno-"61",TELEVEN
 https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8 
 
-#EXTINF:-1 tvg-chno-"61",TEMUCO
-https://5eff35271151c.streamlock.net:1936/8038/8038/.m3u8
+#EXTINF:-1 tvg-chno-"61",MILLENIUM TV 49 
+https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/.m3u8
 
 
 
