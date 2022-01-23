@@ -170,8 +170,8 @@ https://medios.sirtel.cl/live/stream/index.m3u8
 #EXTINF:-1 tvg-chno-"46",france 24
 http:\\static.france24.com\live\F24_ES_LO_HLS\live_web.m3u8
 
-#EXTINF:-1 tvg-chno-"47",telesur venezuela
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
+#EXTINF:-1 tvg-chno-"47",DTT
+https://iblups.com/v.php?v=GTs54dd4bW\play\a0jp
 
 #EXTINF:-1 tvg-chno-"48",TELESUR COSTA RICA
 https://59ef525c24caa.streamlock.net/telesur/telesur/.m3u8  
