@@ -44,8 +44,8 @@ https://589ff3c36f7e8.streamlock.net/crespo3/crespo3/.m3u8
 #EXTINF:-1 tvg-chno-"16",TELEXIMA
 https://vdo2.streamgato.us:3244/live/teleximalive.m3u8
 
-#EXTINF:-1 tvg-chno-"18",CANAL 6 COSTA RICA
-https:\\d30zjikdv9ntds.cloudfront.net\repretel\canal6\smil:live.smil\playlist.m3u8
+#EXTINF:-1 tvg-chno-"18",LIM TV
+https://buddhist.tv/static/streaming-playlists/hls/a58a6aed-aa8c-4070-8127-6e2dd235779b/3.m3u8
 
 #EXTINF:-1 tvg-chno-"11",CONSTANZA TV
 https://ss9.domint.net:3026/ctv8_str/contanzatv/.m3u8
@@ -274,6 +274,9 @@ https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8
 
 #EXTINF:-1 tvg-chno-"61",MILLENIUM TV 49 
 https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/.m3u8
+
+#EXTINF:-1 tvg-chno-"62"SAN ISIDRO
+https://cdn4.hostlagarto.com:8081/static/sanisidrotv/chunks.m3u8
 
 
 
