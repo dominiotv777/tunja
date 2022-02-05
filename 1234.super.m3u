@@ -158,8 +158,8 @@ https:\\cdnhd.iblups.com\hls\YGpW43RUOD.m3u8
 #EXTINF:-1 tvg-chno-"42",VAMISA TV
 http://vps1.lnx.pe/vamisa/envivo/index.m3u8
 
-#EXTINF:-1 tvg-chno-"43",oromar
-https://stream.oromartv.com/hls/oromartv_hi/index.m3u8
+#EXTINF:-1 tvg-chno-"43",HORAXHORA TELEVISION 
+https://cdn2.streamgato.us/horaxhoratelevision/horaxhoratelevision/.m3u8
 
 #EXTINF:-1 tvg-chno-"44",VISION NDV
 https://cloudflare.streamgato.us:3171/live/visionndvlive.m3u8
@@ -215,8 +215,8 @@ https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8
 #EXTINF:-1 tvg-chno-"59",cana tv digital
 https://hostokilive.com:19360/8002/8002.m3u8
 
-#EXTINF:-1 tvg-chno-"55",TOP FM 
-https:\\tvdatta.com:3084\live\toptvaguaytialive.m3u8 
+#EXTINF:-1 tvg-chno-"55",CANAL 8 CATACAOS 
+https://tvdatta.com:3838/live/canalcatacaoslive.m3u8 
 
 #EXTINF:-1 tvg-chno-"56",rn12
 https://5ee0faac3bbae.streamlock.net/rntelevision/rntelevision/.m3u8 
@@ -277,6 +277,9 @@ https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/.m3u8
 
 #EXTINF:-1 tvg-chno-"62"SAN ISIDRO
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/chunks.m3u8
+
+#EXTINF:-1 tvg-chno-"63" SOBERANIA
+https://tls-cl.cdnz.cl/radiosoberania/live/.m3u8                       
 
 
 
