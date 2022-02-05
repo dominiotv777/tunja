@@ -279,7 +279,10 @@ https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/.m3u8
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"63" SOBERANIA
-https://tls-cl.cdnz.cl/radiosoberania/live/.m3u8                       
+https://tls-cl.cdnz.cl/radiosoberania/live/.m3u8
+
+#EXTINF:-1 tvg-chno-"63"HT
+https://h4ahsm.cfeucdn.com/video_short.mp4
 
 
 
