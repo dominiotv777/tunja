@@ -275,14 +275,14 @@ https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8
 #EXTINF:-1 tvg-chno-"61",MILLENIUM TV 49 
 https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/.m3u8
 
-#EXTINF:-1 tvg-chno-"62"SAN ISIDRO
+#EXTINF:-1 tvg-chno-"62",SAN ISIDRO
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"63" SOBERANIA
+#EXTINF:-1 tvg-chno-"63",SOBERANIA
 https://tls-cl.cdnz.cl/radiosoberania/live/.m3u8
 
-#EXTINF:-1 tvg-chno-"63"HT
-https://h4ahsm.cfeucdn.com/video_short.mp4
+#EXTINF:-1 tvg-chno-"63",CANAL VISION DORADA COL.
+https://movil.ejeserver.com/live/visiondorada.m3u8
 
 
 
