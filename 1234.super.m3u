@@ -17,64 +17,64 @@ https://593b04c4c5670.streamlock.net/8148/8148/.m3u8
 #EXTINF:-1 tvg-chno-"6",CANAL 41 TELEVISION
 https://stmv.panel.grupolimalive.com/surtv/surtv/.m3u8
 
-#EXTINF:-1 tvg-chno-"8",RETRO PLAY
+#EXTINF:-1 tvg-chno-"7",RETRO PLAY
 http://v4.tustreaming.cl/retroplaytv/index.m3u8
 
-#EXTINF:-1 tvg-chno-"9",DMJ
+#EXTINF:-1 tvg-chno-"8",DMJ
 http://v4.tustreaming.cl/s1tv/index.m3u8
 
-#EXTINF:-1 tvg-chno-"10",INFOLIBRES TV
+#EXTINF:-1 tvg-chno-"9",INFOLIBRES TV
 https://videohd.live:19360/8020/8020.m3u8
 
-#EXTINF:-1 tvg-chno-"11",BELLA ABANQUINA TV
+#EXTINF:-1 tvg-chno-"10",BELLA ABANQUINA TV
 http://v4.tustreaming.cl/bellatv/index.m3u8 
 
-#EXTINF:-1 tvg-chno-"12",TV MAULE
+#EXTINF:-1 tvg-chno-"11",TV MAULE
 https://cloud2.streaminglivehd.com:1936/8002/8002/.m3u8 
 
-#EXTINF:-1 tvg-chno-"13", CRTV PE
+#EXTINF:-1 tvg-chno-"12", CRTV PE
 http://live.obslivestream.com/crtvmux/index.m3u8
 
-#EXTINF:-1 tvg-chno-"14",URANIO
+#EXTINF:-1 tvg-chno-"13",URANIO
 https://live.obslivestream.com/uraniomux/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno-"15",CANAL 7 SALTA
+#EXTINF:-1 tvg-chno-"14",CANAL 7 SALTA
 https://589ff3c36f7e8.streamlock.net/crespo3/crespo3/.m3u8
 
-#EXTINF:-1 tvg-chno-"16",TELEXIMA
+#EXTINF:-1 tvg-chno-"15",TELEXIMA
 https://vdo2.streamgato.us:3244/live/teleximalive.m3u8
 
-#EXTINF:-1 tvg-chno-"18",LIM TV
+#EXTINF:-1 tvg-chno-"16",LIM TV
 https://buddhist.tv/static/streaming-playlists/hls/a58a6aed-aa8c-4070-8127-6e2dd235779b/3.m3u8
 
-#EXTINF:-1 tvg-chno-"11",CONSTANZA TV
+#EXTINF:-1 tvg-chno-"17",CONSTANZA TV
 https://ss9.domint.net:3026/ctv8_str/contanzatv/.m3u8
 
-#EXTINF:-1 tvg-chno-"12",RADIO DIGITAL TV
+#EXTINF:-1 tvg-chno-"18",RADIO DIGITAL TV
 https://inliveserver.com:1936/10022/10022/.m3u8
 
-#EXTINF:-1 tvg-chno-"12",TELEVER CANAL 12
+#EXTINF:-1 tvg-chno-"19",TELEVER CANAL 12
 https://megastreamm.com:3484/live/televerlive.m3u8
 
-#EXTINF:-1 tvg-chno-"13",MEGA TV CANAL 44
+#EXTINF:-1 tvg-chno-"20",MEGA TV CANAL 44
 https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/.m3u8 
 
-#EXTINF:-1 tvg-chno-"14",TVS RD
+#EXTINF:-1 tvg-chno-"21",TVS RD
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"15",ESTACIONTV
+#EXTINF:-1 tvg-chno-"22",ESTACIONTV
 https://unlimited1-us.dps.live/estaciontv/estaciontv.smil/estaciontv/livestream2/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"16",UNIVERSITARIA TV
+#EXTINF:-1 tvg-chno-"23",UNIVERSITARIA TV
 https:\\tvdatta.com:3670\live\universitariatvlive.m3u8 
 
-#EXTINF:-1 tvg-chno-"17",TELENOVISA
+#EXTINF:-1 tvg-chno-"24",TELENOVISA
 http://ramgolive.ddns.net:1935/telenovisa43/telenovisa43/.m3u8
 
-#EXTINF:-1 tvg-chno-"18",EVASTREAM
+#EXTINF:-1 tvg-chno-"25",EVASTREAM
 https://stmv.panel.mivideo.pro/evastream/evastream/.m3u8 
 
-#EXTINF:-1 tvg-chno-"19",TV SUR CANAL 9 CR
+#EXTINF:-1 tvg-chno-"26",TV SUR CANAL 9 CR
 http:\\tv.ticosmedia.com:1935\TVSUR\TVSUR\playlist.m3u8
 
 #EXTINF:-1 tvg-chno-"16",VIA TELEVISION TARAPOTO
