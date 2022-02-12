@@ -182,8 +182,8 @@ http://tv.siete.us/cajamarcatv/cajamarcatv/index.m3u8
 #EXTINF:-1 tvg-chno-"47",c21
 https://tls.cdnz.cl/canal21tv/live/.m3u8   
 
-#EXTINF:-1 tvg-chno-"48",rocavision
-https://cm.hostlagarto.com:4445/rocavisiondominicana/Dominicanahd.myStream/chunks.m3u8
+#EXTINF:-1 tvg-chno-"48",AME47
+https://ss9.domint.net:3040/ame_str/amecanal47/.m3u8
 
 #EXTINF:-1 tvg-chno-"49",boreal
 https://eu1.servers10.com:8081/8110/tracks-v1a1/mono.m3u8
@@ -278,11 +278,20 @@ https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/.m3u8
 #EXTINF:-1 tvg-chno-"62",SAN ISIDRO
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"63",SOBERANIA
-https://tls-cl.cdnz.cl/radiosoberania/live/.m3u8
+#EXTINF:-1 tvg-chno-"63",TV 5 MULTIMEDIOS
+https://srv3.zcast.com.br/carlosr/carlosr/.m3u8
 
 #EXTINF:-1 tvg-chno-"63",CANAL VISION DORADA COL.
 https://movil.ejeserver.com/live/visiondorada.m3u8
+
+#EXTINF:-1 tvg-chno-"63",MILLENIUMTV AR
+https://tuvideoonline.com.ar:3994/live/mileniumtvlive.m3u8
+
+#EXTINF:-1 tvg-chno-"63",LA VOZ DE TUCUMAN
+https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/.m3u8
+
+
+
 
 
 
