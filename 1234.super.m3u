@@ -269,8 +269,8 @@ https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/chunklist_w109746
 #EXTINF:-1 tvg-chno-"61",Teleunion canal 16
 http://server3.prostudionetwork.com:1945/teleunion/TU/.m3u8
 
-#EXTINF:-1 tvg-chno-"61",TELEVEN
-https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8 
+#EXTINF:-1 tvg-chno-"61",TELMIX 50
+https://panel.dattalive.com/8068/8068/.m3u8 
 
 #EXTINF:-1 tvg-chno-"61",MILLENIUM TV 49 
 https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/.m3u8
@@ -290,8 +290,8 @@ https://tuvideoonline.com.ar:3994/live/mileniumtvlive.m3u8
 #EXTINF:-1 tvg-chno-"63",LA VOZ DE TUCUMAN
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/.m3u8
 
-#EXTINF:-1 tvg-chno-"63", CANAL 7 DE LA COSTA CL
-https://livefocamundo.com:8081/cdlcyerko/index.m3u8
+#EXTINF:-1 tvg-chno-"63",PLANETATV MOVIE
+https://mediacpstreamchile.com:1936/8140/8140/.m3u8
 
 
 
