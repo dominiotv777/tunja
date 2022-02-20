@@ -260,8 +260,8 @@ https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno-"61",OK TEVE
 https://stmv.panel.grupolimalive.com/wesdey3/wesdey3/.m3u8 
 
-#EXTINF:-1 tvg-chno-"61",KBO QUILLABAMBA
-https:\\cdnhd.iblups.com\hls\YGpW43RUOD.m3u8
+#EXTINF:-1 tvg-chno-"61",RLOTV  
+https://593b04c4c5670.streamlock.net/8034/8034/.m3u8
 
 #EXTINF:-1 tvg-chno-"61",SOMOS DEL ESTE
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/chunklist_w1097469454.m3u8
