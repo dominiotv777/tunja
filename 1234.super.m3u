@@ -293,6 +293,23 @@ https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/.m3u8
 #EXTINF:-1 tvg-chno-"63",PLANETATV MOVIE
 https://mediacpstreamchile.com:1936/8140/8140/.m3u8
 
+#EXTINF:-1 tvg-chno-"63",romana
+https://5ee0faac3bbae.streamlock.net/cvmhbyrcat/cvmhbyrcat/.m3u8
+
+#EXTINF:-1 tvg-chno-"63",CANAL 11 TUTV
+https://algochivo.com:1936/canal11/canal11/chunks.m3u8
+
+#EXTINF:-1 tvg-chno-"63",CANAL 7 DE LA COSTA CL
+https://livefocamundo.com:8081/cdlcyerko/index.m3u8
+
+#EXTINF:-1 tvg-chno-"63",
+
+
+
+
+
+
+
 
 
 
