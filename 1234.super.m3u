@@ -302,7 +302,19 @@ https://algochivo.com:1936/canal11/canal11/chunks.m3u8
 #EXTINF:-1 tvg-chno-"63",CANAL 7 DE LA COSTA CL
 https://livefocamundo.com:8081/cdlcyerko/index.m3u8
 
-#EXTINF:-1 tvg-chno-"63",
+#EXTINF:-1 tvg-chno-"63",CANAL LATINO 54.
+http://190.3.169.119:8080/latina/latina/.m3u8 
+
+#EXTINF:-1 tvg-chno-"63",MORA TV COSTA RICA 
+https://srv2.zcast.com.br/moratvcr/moratvcr/.m3u8 
+
+#EXTINF:-1 tvg-chno-"63",MULTIVISION RD
+https://cdn2.streamgato.us/canalmultivision/canalmultivision/playlist.m3u8
+
+#EXTINF:-1 tvg-chno-"63",SU MUNDO TV
+https://cdn1.streamgato.us/sumundotv/sumundotv.myStream/chunks.m3u8
+
+
 
 
 
