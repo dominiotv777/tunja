@@ -317,6 +317,9 @@ https://cdn1.streamgato.us/sumundotv/sumundotv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-chno-"63",TVQ TV GT.
 https://dcunilive23-lh.akamaihd.net/i/dclive_1@303774/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1646157055~acl=%2fi%2fdclive_1%40303774*~data=hdntl~hmac=67c36f7bb12ed8392cd25b20ea97846624084e86231718b82ac03ae7d2f7cd02
 
+#EXTINF:-1 tvg-chno-"63",CANAL 4 SAN JUAN.
+http://streamlov.alsolnet.com/canal4sanjuan/live/.m3u8 
+
 
 
 
