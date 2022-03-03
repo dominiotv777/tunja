@@ -39,7 +39,7 @@ http://live.obslivestream.com/crtvmux/index.m3u8
 https://live.obslivestream.com/uraniomux/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno-"14",CANAL 7 SALTA
-https://589ff3c36f7e8.streamlock.net/crespo3/crespo3/.m3u8
+https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8
 
 #EXTINF:-1 tvg-chno-"15",TELEXIMA
 https://vdo2.streamgato.us:3244/live/teleximalive.m3u8
