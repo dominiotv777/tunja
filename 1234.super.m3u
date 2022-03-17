@@ -327,7 +327,10 @@ https://stream-02.nyc.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54yT7QpB8ZtsTHlr597
 https://panel.dattalive.com/8012/8012/.m3u8 
 
 #EXTINF:-1 tvg-chno-"63",autentica tv
-https://live.obslivestream.com/autenticatvmux/index.m3u8   
+https://live.obslivestream.com/autenticatvmux/index.m3u8 
+
+#EXTINF:-1 tvg-chno-"63", CABLE NETWORD TV PE
+https:\\tv.siete.us\cntv\index.m3u8   
 
 
 
