@@ -335,8 +335,12 @@ https:\\tv.siete.us\cntv\index.m3u8
 #EXTINF:-1 tvg-chno-"63", DEPORTES TV AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"63",PRUEBA
-https://fethmkbsfkcqnsjs.wzcdn654.net:8443/hls/fmo5odgthl1ho50.m3u8?s=vUu8B0HjwxcI2xS70EnKWg&e=1648256804
+#EXTINF:-1 tvg-chno-"63",RCN
+http://199.180.114.174:84/crcn.m3u8
+
+#EXTINF:-1 tvg-chno-"63",CARACOL
+http://199.180.114.174:84/ccaracol.m3u8
+
 
 
 
