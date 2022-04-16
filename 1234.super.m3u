@@ -35,8 +35,8 @@ https://cloud2.streaminglivehd.com:1936/8002/8002/.m3u8
 #EXTINF:-1 tvg-chno-"12", CRTV PE
 http://live.obslivestream.com/crtvmux/index.m3u8
 
-#EXTINF:-1 tvg-chno-"13",URANIO
-https://live.obslivestream.com/uraniomux/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno-"13",ORBIT
+https://ss3.domint.net:3134/otv_str/orbittv/.m3u8
 
 #EXTINF:-1 tvg-chno-"14",CANAL 7 SALTA
 https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8
@@ -288,9 +288,9 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 https://tuvideoonline.com.ar:3994/live/mileniumtvlive.m3u8
 
 #EXTINF:-1 tvg-chno-"63",LA VOZ DE TUCUMAN
-https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/.m3u8
+https://ss3.domint.net:3144/ctv_str/cascaratv/.m3u8
 
-#EXTINF:-1 tvg-chno-"63",PLANETATV MOVIE
+#EXTINF:-1 tvg-chno-"63",CASCARA
 https://mediacpstreamchile.com:1936/8140/8140/.m3u8
 
 #EXTINF:-1 tvg-chno-"63",romana
