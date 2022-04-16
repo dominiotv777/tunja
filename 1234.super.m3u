@@ -338,7 +338,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-chno-"63",RCN
 http://199.180.114.174:84/crcn.m3u8
 
-#EXTINF:-1 tvg-chno-"63",R
+#EXTINF:-1 tvg-chno-"63",RR
 https://ssl.p.jwpcdn.com/player/v/8.24.6/translations/es.json
 
 #EXTINF:-1 tvg-chno-"63",RED
