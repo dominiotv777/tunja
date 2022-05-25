@@ -32,8 +32,8 @@ http://v4.tustreaming.cl/bellatv/index.m3u8
 #EXTINF:-1 tvg-chno-"11",TV MAULE
 https://cloud2.streaminglivehd.com:1936/8002/8002/.m3u8 
 
-#EXTINF:-1 tvg-chno-"12", CRTV PE
-http://live.obslivestream.com/crtvmux/index.m3u8
+#EXTINF:-1 tvg-chno-"12",TELECOSTA GT
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
 #EXTINF:-1 tvg-chno-"13",ORBIT
 https://ss3.domint.net:3134/otv_str/orbittv/.m3u8
@@ -134,8 +134,8 @@ https://cm.hostlagarto.com:4445/deltatv/deltatv50.myStream/chunks.m3u8
 #EXTINF:-1 tvg-chno-"34",TENARENSES
 https://vdo2.streamgato.us:3541/live/tenarensestvlive.m3u8 
 
-#EXTINF:-1 tvg-chno-"35",PALMERAS
-https://srv.panelcast.net/palmerastv/palmerastv/.m3u8
+#EXTINF:-1 tvg-chno-"35",SUPER TV TUISMIL
+https://cdn.streamhispanatv.net:3586/live/tuismillive.m3u8 
 
 #EXTINF:-1 tvg-chno-"36",PERUVIANRADIO TV 
 https:\\stmv.panel.grupolimalive.com\peruviantv\peruviantv\playlist.m3u8
@@ -209,8 +209,8 @@ http:\\191.97.56.183:1935\imagentv\imagentv\playlist.m3u8
 #EXTINF:-1 tvg-chno-"57",tv maule
 https://cloud2.streaminglivehd.com:1936/8002/8002/.m3u8 
 
-#EXTINF:-1 tvg-chno-"58",MICROVISION
-https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8
+#EXTINF:-1 tvg-chno-"58",UNO VISION REO
+https://cdn.streamhispanatv.net:3834/live/unovireulive.m3u8  
 
 #EXTINF:-1 tvg-chno-"59",cana tv digital
 https://hostokilive.com:19360/8002/8002.m3u8
@@ -278,8 +278,8 @@ https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/.m3u8
 #EXTINF:-1 tvg-chno-"62",SAN ISIDRO
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"63",TV 5 MULTIMEDIOS
-https://srv3.zcast.com.br/carlosr/carlosr/.m3u8
+#EXTINF:-1 tvg-chno-"63",FULL CHANNEL GT
+https://cdn.streamhispanatv.net:3845/live/fullchannelgtlive.m3u8
 
 #EXTINF:-1 tvg-chno-"63",CANAL VISION DORADA COL.
 https://movil.ejeserver.com/live/visiondorada.m3u8
