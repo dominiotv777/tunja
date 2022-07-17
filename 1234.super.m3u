@@ -341,14 +341,14 @@ https://00f74ba44be687d6216fd49ecf0e6858d58533686e-apidata.googleusercontent.com
 #EXTINF:-1 tvg-chno-"63",kbo
 https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
 
-#EXTINF:-1 tvg-chno-"63",zz
-https://cnnsanjuan.com:9999/zonda/zonda/iutvlive.m3u8
+#EXTINF:-1 tvg-chno-"63",viwix es 1
+http://cloudvideo.servers10.com:8081/8212/index.m3u8 
 
-#EXTINF:-1 tvg-chno-"63",caleta
-https://cdn4.hostlagarto.com:8081/static/lacaletatv/chunks.m3u8 
+#EXTINF:-1 tvg-chno-"63",viwix 2
+https://cloudvideo.servers10.com:8081/8212/index.m3u8 
 
-#EXTINF:-1 tvg-chno-"63",zzzz
-https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
+#EXTINF:-1 tvg-chno-"63",viwix 3
+https://cloudvideo.servers10.com:8081/8212/tracks-v1a1/index.m3u8
 
 
 
