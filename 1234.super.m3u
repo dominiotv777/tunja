@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno-"1",tintin 1
-https://www.youtube.com/api/stats/watchtime?ns=yt&el=detailpage&cpn=y5Q13vMI6-UksP_-&ver=2&cmt=36.968&fmt=397&fs=0&rt=42.001&euri&lact=8052&cl=461991992&state=playing&volume=7&cbr=Chrome&cbrver=103.0.5060.134&c=WEB&cver=2.20220721.00.00&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&autoplay=1&delay=4&hl=es_ES&cr=CO&len=920.081&rtn=82&feature=autoplay&afmt=251&idpj=-3&ldpj=-34&rti=42&st=28.893&et=36.968&muted=0&docid=QFpPUZGSBic&ei=bsLZYrOhDcWAkAT2la6YCQ&plid=AAXkVz8HBtnnFKQ0&referrer=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4RhYlb7Q8rA%26list%3DPLqadqENamQjWeNSbp_Fo8ZAUdsDS5AEYK%26index%3D5&sdetail=rv%3A4RhYlb7Q8rA&sourceid=yw&autonav=1&list=PLqadqENamQjWeNSbp_Fo8ZAUdsDS5AEYK&of=zl9QbfjIJpmqKhzSOZo5hA&vm=CAEQARgEOjJBS1JhaHdCZ2lsY3JvbXdPQ1lORnBjQTlRSldPVWw5M1p2VnlweWpZSzJTZm1DYXdlUWJgQVBta0tES29od0xtMHJGOHlYY01JYzJIMEJwS2tGTzMyRWlmRmlXN0ZDelZFenlONk52cFZLMUI0UmphRTZFRG9pSFJ2QzJZZkpHVkZfNlA5MnlyTlhkUU9Dd3FqTHJV
+#EXTINF:-1 tvg-chno-"1",MIDWAY 
+https://www.youtube.com/watch?v=Fef9h1Aygcc&t=2061s
 
 #EXTINF:-1 tvg-chno-"2",TV COSTA CL
 https://hd.chileservidores.cl:1936/tvcosta1/tvcosta1/.m3u8
