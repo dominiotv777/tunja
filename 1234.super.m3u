@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-chno-"1",pp
 https://www.youtube.com/watch?v=sKVPp302L40
 
-#EXTINF:-1 tvg-chno-"2",ppp
-https://www.youtube.com/watch?v=b8UEEiuczkk&feature=youtu.be
+#EXTINF:-1 tvg-chno-"2",888
+http://www.youtube.com/watch?v=b8UEEiuczkk&feature=youtu.be
 
-#EXTINF:-1 tvg-chno-"3",pppp
-https://www.youtube.com/watch?v=b8UEEiuczkk 
+#EXTINF:-1 tvg-chno-"3",777
+http://www.youtube.com/watch?v=b8UEEiuczkk 
 
 #EXTINF:-1 tvg-chno-"4",ITV INTERAMERICANA
 https://servers.amelbasoluciones.co:19360/itvchannel/itvchannel.m3u8
