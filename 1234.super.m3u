@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno-"1",xgames
-https://www.youtube.com/watch?v=tQ_UACme-qc&list=PLGSIEmIEDaU-4Uxug_7ieTQ8FNQcfIlmO&index=16
+#EXTINF:-1 tvg-chno-"1",T
+https://www.terabox.com/api/streaming?path=%2FOld.Henry.0p%20(DS).mkv&app_id=250528&clienttype=0&type=M3U8_FLV_264_480&vip=0
 
-#EXTINF:-1 tvg-chno-"2",ene,igo in 
-https://www.youtube.com/watch?v=hScJ_Zz8StI&t=857s
+#EXTINF:-1 tvg-chno-"2",T2
+https://www.terabox.com/api/streaming?path=%2FOld.Henry.0p%20(DS).mkv&app_id=250528&clienttype=0&type=M3U8
 
-#EXTINF:-1 tvg-chno-"3",CAZZ
-https://www.youtube.com/watch?v=7_0_OZTAqes&list=PLj4SAFyoWC0D7riFl6mGaCrghopSMtL4V&index=1
+#EXTINF:-1 tvg-chno-"3",T3
+https://www.terabox.com/api/streaming?path=%2FOld.Henry.0p%20(DS).M3U8
 
 #EXTINF:-1 tvg-chno-"4",ITV INTERAMERICANA
 https://servers.amelbasoluciones.co:19360/itvchannel/itvchannel.m3u8
