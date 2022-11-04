@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno-"1",T
-https://www.terabox.com/api/streaming?path=%2FOld.Henry.0p%20(DS).mkv&app_id=250528&clienttype=0&type=M3U8_FLV_264_480&vip=0
+#EXTINF:-1 tvg-chno-"1",Dog. Un viaje Salvaje 
+https://www.youtube.com/watch?v=KFUaTJ-LFYA
 
 #EXTINF:-1 tvg-chno-"2",T2
 https://www.terabox.com/api/streaming?path=%2FOld.Henry.0p%20(DS).mkv&app_id=250528&clienttype=0&type=M3U8
