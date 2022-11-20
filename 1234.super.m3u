@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-chno-"1",Dog. PUBLICA
 https:\\g1.vxral-hor.transport.edge-access.net\b16\ngrp:c7_vivo01_dai_source-20001_all\c7_vivo01_dai_source-20001.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-chno-"2",T2
-https://www.terabox.com/api/streaming?path=%2FOld.Henry.0p%20(DS).mkv&app_id=250528&clienttype=0&type=M3U8
+#EXTINF:-1 tvg-chno-"2",AVANGER 1
+https://www.youtube.com/watch?v=IJY-uYkqf9I
 
 #EXTINF:-1 tvg-chno-"3",T3
 https://www.terabox.com/api/streaming?path=%2FOld.Henry.0p%20(DS).M3U8
