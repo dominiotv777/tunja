@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno-"1",Dog. PUBLICA
-https:\\g1.vxral-hor.transport.edge-access.net\b16\ngrp:c7_vivo01_dai_source-20001_all\c7_vivo01_dai_source-20001.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno-"1",BT
+https://www.youtube.com/watch?v=UQ80pSKnzhk&list=PLylO5ejGS8ABN58H-W1Y-U2Vouq5aQfML
 
-#EXTINF:-1 tvg-chno-"2",AVANGER 1
-https://www.youtube.com/watch?v=IJY-uYkqf9I
+#EXTINF:-1 tvg-chno-"2",BT
+https://www.youtube.com/watch?v=UQ80pSKnzhk&list=PLylO5ejGS8ABN58H-W1Y-U2Vouq5aQfML.M3U8
 
-#EXTINF:-1 tvg-chno-"3",T3
-https://www.terabox.com/api/streaming?path=%2FOld.Henry.0p%20(DS).M3U8
+#EXTINF:-1 tvg-chno-"3",TBT3
+<iframe width="734" height="413" src="https://www.youtube.com/embed/UQ80pSKnzhk?list=PLylO5ejGS8ABN58H-W1Y-U2Vouq5aQfML" title="El Mundo Debajo De Nuestros Pies: Parte 1 [EPISODIO COMPLETO] | Bajoterra Episodio 1 | HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#EXTINF:-1 tvg-chno-"4",ITV INTERAMERICANA
-https://servers.amelbasoluciones.co:19360/itvchannel/itvchannel.m3u8
+#EXTINF:-1 tvg-chno-"4",BT
+https://www.youtube.com/watch?v=UQ80pSKnzhk&list=PLylO5ejGS8ABN58H-W1Y-U2Vouq5aQfML&t=2s
 
 #EXTINF:-1 tvg-chno-"5",CANAL 57 CL
 https://593b04c4c5670.streamlock.net/8148/8148/.m3u8 
