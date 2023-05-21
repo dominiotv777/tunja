@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno-"1",CARACOL tv
-https://mdstrm.com/live-stream-playlist/58d1aed1b6318eec59278b0b/publish/media_400.m3u8?
+#EXTINF:-1 tvg-chno-"1",CARACOL EX
+https://mdstrm.com/live-stream-playlist/58d1aed1b6318eec59278b0b.m3u8
 
 #EXTINF:-1 tvg-chno-"2",BT
 https://mdstrm.com/live-stream-playlist/58d1aed1b6318eec59278b0b/publish/media_400.m3u8
