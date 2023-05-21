@@ -1,22 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno-"1",CARACOL tv
-https://mdstrm.com/live-stream-playlist/58d1aed1b6318eec59278b0b/.m3u8
+https://mdstrm.com/live-stream-playlist/58d1aed1b6318eec59278b0b/publish/media_400.m3u8?
 
 #EXTINF:-1 tvg-chno-"2",BT
-https://www.youtube.com/watch?v=UQ80pSKnzhk&list=PLylO5ejGS8ABN58H-W1Y-U2Vouq5aQfML.M3U8
-https://co-e7-p-e-cl2.cdn.mdstrm.com/live-stream-secure/58d1aed1b6318eec59278b0b/publish/media_400.m3u8?
-aid=589b1365f30bc52f54100dd8&uid=1UoNOFb2aLC5Tbj3Ro1WfzQXVjRD1AIR&sid=9Xf6DCn4F4Q80G0n6inqIZeRsYZ0v5xv&pid=4011MYiXhB1miz9qEg2OqfasB3Q2UF0S&ref=https%3A%2F%2Fpartidos.gol.caracoltv.com
-%2F&without_cookies=false&listenerid=&dnt=true&access_token=YRpmQzHw9jRu3tSsnHUxRlZs5s7yrs47oP0RlHDYx88XqdsbYqs42H5hvqvIbf3ydF0JM7LGQyk&es=co-e7-p-e-
-cl2.cdn.mdstrm.com&ote=1684778728756&ot=LkS0woCS4gU5UjRL9CuPJQ&proto=https&pz=us
-#EXTINF:-1 tvg-chno-"3",TBT3
-
-<iframe width="734" height="413" src="https://www.youtube.com/embed/UQ80pSKnzhk?list=PLylO5ejGS8ABN58H-W1Y-U2Vouq5aQfML" title="El Mundo Debajo De Nuestros Pies: Parte 1 [EPISODIO COMPLETO] | Bajoterra Episodio 1 | HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://mdstrm.com/live-stream-playlist/58d1aed1b6318eec59278b0b/publish/media_400.m3u8
 
 #EXTINF:-1 tvg-chno-"4",BT
-https://www.youtube.com/watch?v=UQ80pSKnzhk&list=PLylO5ejGS8ABN58H-W1Y-U2Vouq5aQfML&t=2s
+https://mdstrm.com/live-stream-playlist/58d1aed1b6318eec59278b0b/publish/.m3u8
 
 #EXTINF:-1 tvg-chno-"5",CANAL 57 CL
-https://593b04c4c5670.streamlock.net/8148/8148/.m3u8 
+https://mdstrm.com/live-stream-playlist/58d1aed1b6318eec59278b0b/publish/m3u8
 
 #EXTINF:-1 tvg-chno-"6",CANAL 41 TELEVISION
 https://stmv.panel.grupolimalive.com/surtv/surtv/.m3u8
