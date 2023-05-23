@@ -11,23 +11,23 @@ https://mdstrm.com/live-stream-playlist/58d1aed1b6318eec59278b0b/publish/.m3u8
 #EXTINF:-1 tvg-chno-"5",CANAL 57 CL
 https://mdstrm.com/live-stream-playlist/58d1aed1b6318eec59278b0b/publish/m3u8
 
-#EXTINF:-1 tvg-chno-"6",CANAL 41 TELEVISION
-https://stmv.panel.grupolimalive.com/surtv/surtv/.m3u8
+#EXTINF:-1 tvg-chno-"6",rcn
+ http://envivo.canalrcn.com/envivo/canalrcn/playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"7",RETRO PLAY
-http://v4.tustreaming.cl/retroplaytv/index.m3u8
+#EXTINF:-1 tvg-chno-"7",rcn 2
+ https://envivo.canalrcn.com/envivo/canalrcn/playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"8",DMJ
-http://v4.tustreaming.cl/s1tv/index.m3u8
+#EXTINF:-1 tvg-chno-"8",rcn 3
+http://canalrcn-mobile-live.4cloud.co/livercn/AppSenalRcn/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno-"9",INFOLIBRES TV
-https://videohd.live:19360/8020/8020.m3u8
+#EXTINF:-1 tvg-chno-"9",caracol
+http://199.180.114.174:84/ccaracol.m3u8
 
-#EXTINF:-1 tvg-chno-"10",BELLA ABANQUINA TV
-http://v4.tustreaming.cl/bellatv/index.m3u8 
+#EXTINF:-1 tvg-chno-"10",rcn4
+http://199.180.114.174:84/crcn.m3u8 
 
-#EXTINF:-1 tvg-chno-"11",TV MAULE
-https://cloud2.streaminglivehd.com:1936/8002/8002/.m3u8 
+#EXTINF:-1 tvg-chno-"11",rcn
+https://stream-02.nyc.dailymotion.com/sec(RTXUFuzJRHwPimV0dxTfP5cLGZDvdilZmGFDY0AVTO8sWuk94fo4rytJucn_U5T-tqBM-_b5Aixb1Mzrjr1fEBMD8uL6jn8ncUkjzs1aQR8)/cloud/3/x7vyv0z/s/live-1.m3u8 
 
 #EXTINF:-1 tvg-chno-"12",TELECOSTA GT
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
