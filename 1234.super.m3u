@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno-"1",CARACOL EX
-https://mdstrm.com/live-stream-playlist/58d1aed1b6318eec59278b0b.m3u8
+#EXTINF:-1 tvg-chno-"1",CARACOL EXEX
+http://199.180.114.174:84/ccaracol.m3u8
 
 #EXTINF:-1 tvg-chno-"2",RCN
 http://181.78.23.118:8000/play/a03y/index.m3u8
