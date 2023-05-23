@@ -24,6 +24,7 @@ http://canalrcn-mobile-live.4cloud.co/livercn/AppSenalRcn/chunklist.m3u8
 http://199.180.114.174:84/ccaracol.m3u8
 
 #EXTINF:-1 tvg-chno-"10",rcn4
+http://199.180.114.174:84/crcn.m3u8
  
 
 #EXTINF:-1 tvg-chno-"11",rcn
