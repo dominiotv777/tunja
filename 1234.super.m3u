@@ -3,10 +3,10 @@
 http://199.180.114.174:84/ccaracol.m3u8
 
 #EXTINF:-1 tvg-chno-"2",RCN DIGITAL COL
-http://199.180.114.174:84/crcn.m3u8
+http://198.54.201.64:443/crcn.m3u8
 
-#EXTINF:-1 tvg-chno-"4",BT
-https://mdstrm.com/live-stream-playlist/58d1aed1b6318eec59278b0b/publish/.m3u8
+#EXTINF:-1 tvg-chno-"4",RCN 2
+https://198.54.201.64:443/crcn.m3u8
 
 #EXTINF:-1 tvg-chno-"5",CANAL 57 CL
 https://mdstrm.com/live-stream-playlist/58d1aed1b6318eec59278b0b/publish/m3u8
