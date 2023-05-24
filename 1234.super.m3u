@@ -31,7 +31,7 @@ http://199.180.114.174:84/crcn.m3u8
 https://stream-02.nyc.dailymotion.com/sec(RTXUFuzJRHwPimV0dxTfP5cLGZDvdilZmGFDY0AVTO8sWuk94fo4rytJucn_U5T-tqBM-_b5Aixb1Mzrjr1fEBMD8uL6jn8ncUkjzs1aQR8)/cloud/3/x7vyv0z/s/live-1.m3u8 
 
 #EXTINF:-1 tvg-chno-"12",france
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u8
 
 #EXTINF:-1 tvg-chno-"13",ORBIT
 https://ss3.domint.net:3134/otv_str/orbittv/.m3u8
