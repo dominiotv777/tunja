@@ -1,18 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno-"1",CARACOL EXEX
-http://199.180.114.174:84/ccaracol.m3u8
+#EXTINF:-1 tvg-chno-"1",tudn
+https://unidfp-nlds141.global.ssl.fastly.net/nlds/univisionnow/udn2/as/live/udn2_hd_pc.m3u8?t1=
 
-#EXTINF:-1 tvg-chno-"2",RCN DIGITAL COL
-http://198.54.201.64:443/crcn.m3u8
+#EXTINF:-1 tvg-chno-"2",t
+https://unidfp-nlds141.global.ssl.fastly.net/nlds/univisionnow/udn2/as/live/udn2_hd_pc.m3u8
 
-#EXTINF:-1 tvg-chno-"4",RCN 2
-https://198.54.201.64:443/crcn.m3u8
+#EXTINF:-1 tvg-chno-"4",tu
+https://unidfp-nlds141.global.ssl.fastly.net/nlds/univisionnow/.m3u8
 
-#EXTINF:-1 tvg-chno-"5",CANAL 57 CL
-https://mdstrm.com/live-stream-playlist/58d1aed1b6318eec59278b0b/publish/m3u8
+#EXTINF:-1 tvg-chno-"5",tud
+https://unidfp-nlds141.global.ssl.fastly.net/nlds/univisionnow/index.m3u8
 
 #EXTINF:-1 tvg-chno-"6",rcn
- http://envivo.canalrcn.com/envivo/canalrcn/playlist.m3u8
+https://unidfp-nlds141.global.ssl.fastly.net/nlds/univisionnow/playlist.m3u8
 
 #EXTINF:-1 tvg-chno-"7",rcn 2
  https://envivo.canalrcn.com/envivo/canalrcn/playlist.m3u8
