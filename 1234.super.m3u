@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno-"1",tudn
-https://unidfp-nlds141.global.ssl.fastly.net/nlds/univisionnow/udn2/as/live/udn2_hd_pc.m3u8?t1=
+#EXTINF:-1 tvg-chno-"1",Playground TV
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b2f-636d96ffdc2c550b145ed427/variant.m3u8
 
 #EXTINF:-1 tvg-chno-"2",t
 https://unidfp-nlds141.global.ssl.fastly.net/nlds/univisionnow/udn2/as/live/udn2_hd_pc.m3u8
