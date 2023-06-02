@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno-"1",Playground TV
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b2f-636d96ffdc2c550b145ed427/variant.m3u8
+#EXTINF:-1 tvg-chno-"1",coto
+https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno-"2",TUDN
-https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/dash/TUDNHD-video=3720000-101138649690562.dash?bpkout=default
+#EXTINF:-1 tvg-chno-"2",coto b
+https://cloudvideo.servers10.com:8081/8030/index.m3u8 
 
-#EXTINF:-1 tvg-chno-"4",tu
-https://unidfp-nlds141.global.ssl.fastly.net/nlds/univisionnow/udn2/as/live/udn2_hd_pc.m3u8?t1=3720000-101138649690562.dash?bpkout=default
+#EXTINF:-1 tvg-chno-"4",c b
+https://cloudvideo.servers10.com:8081/.m3u8
 
 #EXTINF:-1 tvg-chno-"5",tud
 https://unidfp-nlds141.global.ssl.fastly.net/nlds/univisionnow/index.m3u8
