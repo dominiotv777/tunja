@@ -1,27 +1,30 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno-"1",coto
-https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno-"1",MAGIC KIDS
+https://magicstream.ddns.net/magicstream/stream.m3u8
 
-#EXTINF:-1 tvg-chno-"2",coto b
-https://cloudvideo.servers10.com:8081/8030/index.m3u8 
+#EXTINF:-1 tvg-chno-"2",CARTONITO AR
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"4",c b
-https://cloudvideo.servers10.com:8081/.m3u8
+#EXTINF:-1 tvg-chno-"3",SUPERKAOS AR
+https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"5",tud
-https://unidfp-nlds141.global.ssl.fastly.net/nlds/univisionnow/index.m3u8
+#EXTINF:-1 tvg-chno-"4",XTREMA CARTOONS
+https://stmv1.cnarlatam.com/cineinfantil/cineinfantil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"6",rcn
-https://unidfp-nlds141.global.ssl.fastly.net/nlds/univisionnow/playlist.m3u8
+#EXTINF:-1 tvg-chno-"5",XTREMA RETRO CARTOONS
+https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"7",rcn 2
- https://envivo.canalrcn.com/envivo/canalrcn/playlist.m3u8
+#EXTINF:-1 tvg-chno-"6",SEO TV KIDS BO
+https://live.seo.tv.bo/live/2SEO.m3u8
 
-#EXTINF:-1 tvg-chno-"8",rcn 3
-http://canalrcn-mobile-live.4cloud.co/livercn/AppSenalRcn/chunklist.m3u8
+#EXTINF:-1 tvg-chno-"7",DISCOVERY KIDS CHI
+https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-chno-"9",caracol
-http://199.180.114.174:84/ccaracol.m3u8
+#EXTINF:-1 tvg-chno-"8",PLANETA KIDS
+https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
+
+#EXTINF:-1 tvg-chno-"9",DIOS TV KIDS
+https://emisoras.hn:8081/diostevekids/playlist.m3u8
 
 #EXTINF:-1 tvg-chno-"10",rcn4
 http://199.180.114.174:84/crcn.m3u8
