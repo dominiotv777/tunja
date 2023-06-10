@@ -35,8 +35,8 @@ https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-chno-"12",dreiko
 https://cloudvideo.servers10.com:8081/8138/playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"13",ORBIT
-https://ss3.domint.net:3134/otv_str/orbittv/.m3u8
+#EXTINF:-1 tvg-chno-"13",stret
+https://www.youtube.com/watch?v=kafUehQnKtU&list=PL4SeEQWoCs_zVtvhDMc9Iv8vj4wpr2PIG&index=2
 
 #EXTINF:-1 tvg-chno-"14",CANAL 7 SALTA
 https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8
