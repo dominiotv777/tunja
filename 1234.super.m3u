@@ -35,8 +35,8 @@ https://cloudvideo.servers10.com:8081/8068/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-chno-"12",dreiko
 https://cloudvideo.servers10.com:8081/8138/playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"13",canela
-https://stream.ads.ottera.tv/cl/230611ci2jn3thqgp9imt7r7sg/.m3u8
+#EXTINF:-1 tvg-chno-"13",TRAILER
+https://www.youtube.com/watch?v=Tgl48tlAnDM
 
 #EXTINF:-1 tvg-chno-"14",accion
 https://stream.ads.ottera.tv/cl/230611ci2joo101i2hdnp2v8mg/1280x720_2300000_0_f.m3u8?i=475_4311
