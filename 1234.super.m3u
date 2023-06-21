@@ -77,26 +77,26 @@ https://stmv.panel.mivideo.pro/evastream/evastream/.m3u8
 #EXTINF:-1 tvg-chno-"26",TV SUR CANAL 9 CR
 http:\\tv.ticosmedia.com:1935\TVSUR\TVSUR\playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"16",VIA TELEVISION TARAPOTO
+#EXTINF:-1 tvg-chno-"27",VIA TELEVISION TARAPOTO
 https:\\5ee0faac3bbae.streamlock.net\viatv2021\viatv2021\playlist.m3u8 
 
-#EXTINF:-1 tvg-chno-"20",TELE2000
+#EXTINF:-1 tvg-chno-"28",TELE2000
 https:\\mediastreamm.com:3126\live\tele2000live.m3u8 
 
-#EXTINF:-1 tvg-chno-"21",SOLTELEVISION USA
+#EXTINF:-1 tvg-chno-"29",SOLTELEVISION USA
 https://soltvusa.com/soltvsp/ngrp:soltelevisionsp_all/.m3u8
 
-#EXTINF:-1 tvg-chno-"22",TOP FM (ATALAYA) PE
-https:\\tvdatta.com:3084\live\toptvaguaytialive.m3u8
+#EXTINF:-1 tvg-chno-"30",BAYRES AR
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
-#EXTINF:-1 tvg-chno-"22",HMTV EX
-https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
+#EXTINF:-1 tvg-chno-"31",CANAL 21 TV AR
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"23",CINE TELECARIBE
-https://cloudflare.streamgato.us:3689/live/telecaribehdlive.m3u8   
+#EXTINF:-1 tvg-chno-"32",SANAGASTA AR
+https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8   
 
-#EXTINF:-1 tvg-chno-"24",CENTRAL TV
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/.m3u8 
+#EXTINF:-1 tvg-chno-"33",LA VOZ DE TUCUMAN
+https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/.m3u8
 
 #EXTINF:-1 tvg-chno-"25",CALETA TV
 https://cdn4.hostlagarto.com:8081/static/lacaletatv/chunks.m3u8 
