@@ -23,8 +23,8 @@ https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 #EXTINF:-1 tvg-chno-"8",PLANETA KIDS
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"9",DIOS TV KIDS
-https://emisoras.hn:8081/diostevekids/playlist.m3u8
+#EXTINF:-1 tvg-chno-"9",rcn
+http://199.180.114.174:84/crcn.m3u8 
 
 #EXTINF:-1 tvg-chno-"10",multizonas
 https://cloudvideo.servers10.com:8081/8068/tracks-v1a1/index.m3u8
@@ -41,8 +41,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
 #EXTINF:-1 tvg-chno-"14",accion
 https://stream.ads.ottera.tv/cl/230611ci2joo101i2hdnp2v8mg/1280x720_2300000_0_f.m3u8?i=475_4311
 
-#EXTINF:-1 tvg-chno-"15",TELEXIMA
-https://vdo2.streamgato.us:3244/live/teleximalive.m3u8
+#EXTINF:-1 tvg-chno-"15",rcn
+https://stream-04.nyc.dailymotion.com/sec(RTXUFuzJRHwPimV0dxTfPz45QmshhacZzo6ysfd4rbFE2dEKeScJcpSKrdnX7z_dL7za3NeVmJP1t3_JjxwXoIKmSuCOVvovwx13lEYCB_Q)/cloud/3/x7vyv0z/s/live-1.m3u8
 
 #EXTINF:-1 tvg-chno-"16",LIM TV
 https://buddhist.tv/static/streaming-playlists/hls/a58a6aed-aa8c-4070-8127-6e2dd235779b/3.m3u8
