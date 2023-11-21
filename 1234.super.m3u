@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno-"1",GOL CARACOL
-https://mdstrm.com/live-stream-playlist/58d18bd236e5f69e5887332b.m3u8
+#EXTINF:-1 tvg-chno-"1",GOL CARACOL.
+https://mdstrm.com/live-stream-playlist/589b1365f30bc52f54100dd8.m3u8
 
-#EXTINF:-1 tvg-chno-"2",CARACOL
-https://mdstrm.com/live-stream-playlist/589b1365f30bc52f54100dd8/655b5e7ce94ce64d1cffcbc8.m3u8
+#EXTINF:-1 tvg-chno-"2",CARACOL.
+https://mdstrm.com/live-stream-playlist/589b1365f30bc52f54100dd8.m3u8
 
 #EXTINF:-1 tvg-chno-"3",RCN 3
 https://stream-02.nyc.dailymotion.com/sec/playlist.m3u8
