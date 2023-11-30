@@ -14,29 +14,29 @@ https://stmv1.cnarlatam.com/cnardeportes/cnardeportes/playlist.m3u8
 #EXTINF:-1 tvg-chno-"5",rcn 5
 https://stream/nyc.dailymotion.com/sec/cloud/3/x7vyv0z/s/live-1.m3u8
 
-#EXTINF:-1 tvg-chno-"6",SEO TV KIDS BO
-https://live.seo.tv.bo/live/2SEO.m3u8
+#EXTINF:-1 tvg-chno-"6",barbe
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 
-#EXTINF:-1 tvg-chno-"7",DISCOVERY KIDS CHI
-https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
+#EXTINF:-1 tvg-chno-"7",villa
+https://inliveserver.com:1936/10016/10016/.m3u8
 
-#EXTINF:-1 tvg-chno-"8",PLANETA KIDS
-https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
+#EXTINF:-1 tvg-chno-"8",totovision
+https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 
-#EXTINF:-1 tvg-chno-"9",rcn
-http://199.180.114.174:84/crcn.m3u8 
+#EXTINF:-1 tvg-chno-"9",gtv
+https://cdn.streamhispanatv.net:3186/live/mastvlive.m3u8
 
-#EXTINF:-1 tvg-chno-"10",multizonas
-https://cloudvideo.servers10.com:8081/8068/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-chno-"10",mas tv gt
+https://cdn.streamhispanatv.net:3186/live/mastvlive.m3u8
  
-#EXTINF:-1 tvg-chno-"11",multizonas
-https://cloudvideo.servers10.com:8081/8068/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-chno-"11",canal9tv
+https://cdn.streamhispanatv.net:3237/live/canal9tvgtlive.m3u8
 
-#EXTINF:-1 tvg-chno-"12",dreiko
-https://cloudvideo.servers10.com:8081/8138/playlist.m3u8
+#EXTINF:-1 tvg-chno-"12",canal 100 chinique
+https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
 
-#EXTINF:-1 tvg-chno-"13",mundo pequeño
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366   
+#EXTINF:-1 tvg-chno-"13",ixchiguan
+https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8  
 
 #EXTINF:-1 tvg-chno-"14",accion
 https://stream.ads.ottera.tv/cl/230611ci2joo101i2hdnp2v8mg/1280x720_2300000_0_f.m3u8?i=475_4311
