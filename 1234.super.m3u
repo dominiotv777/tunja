@@ -38,17 +38,17 @@ https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
 #EXTINF:-1 tvg-chno-"13",ixchiguan
 https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8  
 
-#EXTINF:-1 tvg-chno-"14",accion
-https://stream.ads.ottera.tv/cl/230611ci2joo101i2hdnp2v8mg/1280x720_2300000_0_f.m3u8?i=475_4311
+#EXTINF:-1 tvg-chno-"14",+CINE 1
+https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8
 
-#EXTINF:-1 tvg-chno-"15",rcn
-https://stream-04.nyc.dailymotion.com/sec(RTXUFuzJRHwPimV0dxTfPz45QmshhacZzo6ysfd4rbFE2dEKeScJcpSKrdnX7z_dL7za3NeVmJP1t3_JjxwXoIKmSuCOVvovwx13lEYCB_Q)/cloud/3/x7vyv0z/s/live-1.m3u8
+#EXTINF:-1 tvg-chno-"15",+CINE 2
+https://tv.streaming-chile.com:1936/8142/8142/+Cine.playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"16",LIM TV
-https://buddhist.tv/static/streaming-playlists/hls/a58a6aed-aa8c-4070-8127-6e2dd235779b/3.m3u8
+#EXTINF:-1 tvg-chno-"16",+CINE 3
+https://tv.streaming-chile.com:1936/8142/8142/playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"17",CONSTANZA TV
-https://ss9.domint.net:3026/ctv8_str/contanzatv/.m3u8
+#EXTINF:-1 tvg-chno-"17",+CINE 4
+https://tv.streaming-chile.com:1936/8142/playlist.m3u8
 
 #EXTINF:-1 tvg-chno-"18",RADIO DIGITAL TV
 https://inliveserver.com:1936/10022/10022/.m3u8
