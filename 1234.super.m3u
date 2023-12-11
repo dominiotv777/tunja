@@ -53,11 +53,12 @@ https://tv.streaming-chile.com:1936/8142/8142/chunklist_w594836354.m3u8?WebM3UCL
 #EXTINF:-1 tvg-chno-"18",TV FLORENCIA GT
 https://cdn.streamhispanatv.net:3819/live/tvflorencilive.m3u8
 
-#EXTINF:-1 tvg-chno-"19",TELEVER CANAL 12
-https://megastreamm.com:3484/live/televerlive.m3u8
+#EXTINF:-1 tvg-chno-"19",time acciom
+https://stream.ads.ottera.tv/cl/231211clro2c8elcuvsiqskr90/1280x720_3071200_0_f.m3u8?i=728_2550
 
-#EXTINF:-1 tvg-chno-"20",MEGA TV CANAL 44
-https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/.m3u8 
+
+#EXTINF:-1 tvg-chno-"20",time accion
+https://stream.ads.ottera.tv/cl/231211clro2c8elcuvsiqskr90/playlist.m3u8
 
 #EXTINF:-1 tvg-chno-"21",TVS RD
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
