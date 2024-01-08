@@ -38,8 +38,8 @@ https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
 #EXTINF:-1 tvg-chno-"13",ixchiguan
 https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8  
 
-#EXTINF:-1 tvg-chno-"14",+CINE 1
-https://tv.streaming-chile.com:1936/8142/8142/+Cine.m3u8
+#EXTINF:-1 tvg-chno-"14",ANTENA LATINA CANAL 7 RD
+https://d1841z6ti5nz2v.cloudfront.net/Antena7DO/34cdaa501a0217ea217d8f4f083c1728.sdp/Antena7DO/Antena7DO2/playlist.m3u8
 
 #EXTINF:-1 tvg-chno-"15",+CINE 2
 https://tv.streaming-chile.com:1936/8142/8142/+Cine.playlist.m3u8
