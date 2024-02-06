@@ -1,18 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno-"1",central
-https://ok.ru/live/7175718968942
+#EXTINF:-1 tvg-chno-"1",DTV
+https://s.emisoras.tv:8081/dtv/tracks-v1a1/mono.m3u8 
 
-#EXTINF:-1 tvg-chno-"2",CARACOL.
-https://mdstrm.com/live-stream-playlist/589b1365f30bc52f54100dd8.m3u8
+#EXTINF:-1 tvg-chno-"2",DTV 2
+https://emisoras.hn:8081/dtv/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-chno-"3",tYC SPORTS AR
-https://stmv1.cnarlatam.com/cnardeportes/cnardeportes/chunklist_w1275519869.m3u8
+#EXTINF:-1 tvg-chno-"3",DTV 3
+https://emisoras.hn:8081/dtv/tracks-v1a1/play.m3u8
 
-#EXTINF:-1 tvg-chno-"4",TYC
-https://stmv1.cnarlatam.com/cnardeportes/cnardeportes/playlist.m3u8
+#EXTINF:-1 tvg-chno-"4",dtv 4
+https://emisoras.hn:8081/dtv/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"5",rcn 5
-https://stream/nyc.dailymotion.com/sec/cloud/3/x7vyv0z/s/live-1.m3u8
+#EXTINF:-1 tvg-chno-"5",dtv 5
+https://emisoras.hn:8081/dtv/tracks-v1a1/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"6",barbe
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
