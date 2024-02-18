@@ -3,10 +3,10 @@
 https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
 
 #EXTINF:-1 tvg-chno-"2",DTV 2
-https://emisoras.hn:8081/dtv/tracks-v1a1/index.m3u8
+https://d16k620tapvw9n.cloudfront.net/inside/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
 
 #EXTINF:-1 tvg-chno-"3",DTV 3
-https://emisoras.hn:8081/dtv/tracks-v1a1/play.m3u8
+https://d16k620tapvw9n.cloudfront.net/out/index.m3u8
 
 #EXTINF:-1 tvg-chno-"4",dtv 4
 https://emisoras.hn:8081/dtv/tracks-v1a1/playlist.m3u8
