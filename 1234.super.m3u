@@ -1,18 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno-"1",logan lat
-https://www.youtube.com/watch?v=rZ09fFPZoBs
+#EXTINF:-1 tvg-chno-"1",bichos
+https://www.youtube.com/watch?v=5OQUAPJHcOY&feature=shared
 
 #EXTINF:-1 tvg-chno-"2",JAKI EMIGRANTE
 https://www.youtube.com/watch?v=PkAxXEkq3eA
 
-#EXTINF:-1 tvg-chno-"3",inplacable
-https://www.youtube.com/watch?v=Y6RTGSiD-_Q
+#EXTINF:-1 tvg-chno-"3",ficc
+https://www.youtube.com/watch?v=C18lWyxNJgs
 
-#EXTINF:-1 tvg-chno-"4",PROYECTO EXTRACCION
-https://www.youtube.com/watch?v=Y6San_UNM7o
+#EXTINF:-1 tvg-chno-"4",batalla por la patria
+https://www.youtube.com/watch?v=Dp21NA89wjc
 
-#EXTINF:-1 tvg-chno-"5",dtv 5
-https://emisoras.hn:8081/dtv/tracks-v1a1/chunks.m3u8
+#EXTINF:-1 tvg-chno-"5",League of Gods
+https://www.youtube.com/watch?v=Fecot0wNobY
 
 #EXTINF:-1 tvg-chno-"6",barbe
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
