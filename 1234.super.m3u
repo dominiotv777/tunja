@@ -18,13 +18,13 @@ https://www.youtube.com/watch?v=Fecot0wNobY
 https://www.youtube.com/watch?v=6hEgV4Yrh-M&list=PL4UE29AWt0Sh7MNZ_vo5RML1sfV1hMyUw&index=14
 
 #EXTINF:-1 tvg-chno-"7",jaki i
-https://video.wixstatic.com/video/i/480p/mp4/file.mp4
+https:\\video.wixstatic.com\video\08276b_46d83c2ab6084959b875d59e7e9cfe1e\480p\mp4\file.mp4
 
 #EXTINF:-1 tvg-chno-"8",jaki chan
 https://video.wixstatic.com/video/08276b_46d83c2ab6084959b875d59e7e9cfe1e/480p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"9",gtv
-https://cdn.streamhispanatv.net:3126/live/genesistvlive.m3u8
+#EXTINF:-1 tvg-chno-"9",ja
+https://video.wixstatic.com/video/08276b_46d83c2ab6084959b875d59e7e9cfe1e/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-chno-"10",mas tv gt
 https://cdn.streamhispanatv.net:3186/live/mastvlive.m3u8
