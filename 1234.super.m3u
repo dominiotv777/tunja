@@ -44,8 +44,8 @@ https://ssh101.bozztv.com/ssh101/tcbstreaming/chunks.m3u8
 #EXTINF:-1 tvg-chno-"15",CGTVE
 https://ssh101.bozztv.com/ssh101/cgtve/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"16",+CINE 3
-https://tv.streaming-chile.com:1936/8142/8142/playlist.m3u8
+#EXTINF:-1 tvg-chno-"16",WOW MOVIES
+https://ssh101.bozztv.com/ssh101/wowchannelsd/chunks.m3u8  
 
 #EXTINF:-1 tvg-chno-"17",+CINE 4.
 https://tv.streaming-chile.com:1936/8142/8142/chunklist_w594836354.m3u8?WebM3UCL
