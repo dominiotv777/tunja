@@ -20,11 +20,11 @@ https://5cb1ee4d59ac0.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8
 #EXTINF:-1 tvg-chno-"7", CANAL 20 GT
 https://desuchi.com/streams/live/tv.m3u8
 
-#EXTINF:-1 tvg-chno-"8",jaki chan
-https://video.wixstatic.com/video/08276b_46d83c2ab6084959b875d59e7e9cfe1e/480p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"8",COMUNICACIONES JIMENEZ
+https://ssh101.bozztv.com/ssh101/comunicaciones/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"9",ja
-https://video.wixstatic.com/video/08276b_46d83c2ab6084959b875d59e7e9cfe1e/480p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"9",APANINES
+https://ssh101-fl.bozztv.com/ssh101/apaninestv/tracks-v1a1/index.m3u8 
 
 #EXTINF:-1 tvg-chno-"10",mas tv gt
 https://cdn.streamhispanatv.net:3186/live/mastvlive.m3u8
@@ -38,11 +38,11 @@ https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
 #EXTINF:-1 tvg-chno-"13",ixchiguan
 https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8  
 
-#EXTINF:-1 tvg-chno-"14",ANTENA LATINA CANAL 7 RD
-https://d1841z6ti5nz2v.cloudfront.net/Antena7DO/34cdaa501a0217ea217d8f4f083c1728.sdp/Antena7DO/Antena7DO2/playlist.m3u8
+#EXTINF:-1 tvg-chno-"14",TELEBOCONO
+https://ssh101.bozztv.com/ssh101/tcbstreaming/chunks.m3u8 
 
-#EXTINF:-1 tvg-chno-"15",+CINE 2
-https://tv.streaming-chile.com:1936/8142/8142/+Cine.playlist.m3u8
+#EXTINF:-1 tvg-chno-"15",CGTVE
+https://ssh101.bozztv.com/ssh101/cgtve/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"16",+CINE 3
 https://tv.streaming-chile.com:1936/8142/8142/playlist.m3u8
