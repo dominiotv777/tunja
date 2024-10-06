@@ -53,32 +53,32 @@ https://tv.streaming-chile.com:1936/8142/8142/chunklist_w594836354.m3u8?WebM3UCL
 #EXTINF:-1 tvg-chno-"18",TV FLORENCIA GT
 https://cdn.streamhispanatv.net:3819/live/tvflorencilive.m3u8
 
-#EXTINF:-1 tvg-chno-"19",boing 1
-https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8 
+#EXTINF:-1 tvg-chno-"19",DORA LA EXPLORADORA
+https://www.youtube.com/watch?v=OAVIDcTjuFw 
 
-#EXTINF:-1 tvg-chno-"20",boing 2
-https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/main.m3u8 
+#EXTINF:-1 tvg-chno-"20",MUNDO PEQUEÑO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366 
 
-#EXTINF:-1 tvg-chno-"21",boing 3
-https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/playlist.m3u8 
+#EXTINF:-1 tvg-chno-"21",CLAN
+https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8 
 
-#EXTINF:-1 tvg-chno-"22",boing 4
-https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/chunklist.m3u8 
+#EXTINF:-1 tvg-chno-"22",TG JUNIOR
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 
-#EXTINF:-1 tvg-chno-"23",UNIVERSITARIA TV
-https:\\tvdatta.com:3670\live\universitariatvlive.m3u8 
+#EXTINF:-1 tvg-chno-"23",extrema kids
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8  
 
-#EXTINF:-1 tvg-chno-"24",TELENOVISA
-http://ramgolive.ddns.net:1935/telenovisa43/telenovisa43/.m3u8
+#EXTINF:-1 tvg-chno-"24",planeta aventuras
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311
 
-#EXTINF:-1 tvg-chno-"25",EVASTREAM
-https://stmv.panel.mivideo.pro/evastream/evastream/.m3u8 
+#EXTINF:-1 tvg-chno-"25",planeta familia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310     
 
-#EXTINF:-1 tvg-chno-"26",TV SUR CANAL 9 CR
-http:\\tv.ticosmedia.com:1935\TVSUR\TVSUR\playlist.m3u8
+#EXTINF:-1 tvg-chno-"26",NTV CL
+https://marine2.miplay.cl/ntv/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-chno-"27",VIA TELEVISION TARAPOTO
-https:\\5ee0faac3bbae.streamlock.net\viatv2021\viatv2021\playlist.m3u8 
+#EXTINF:-1 tvg-chno-"27", MOONBUG KIDS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3365
 
 #EXTINF:-1 tvg-chno-"28",TELE2000
 https:\\mediastreamm.com:3126\live\tele2000live.m3u8 
