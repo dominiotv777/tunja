@@ -80,9 +80,10 @@ https://marine2.miplay.cl/ntv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-chno-"27", MOONBUG KIDS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3365
 
-#EXTINF:-1 tvg-chno-"28",TELE2000
-https:\\mediastreamm.com:3126\live\tele2000live.m3u8 
+#EXTINF:-1 tvg-chno-"28",BEBESITO BUM
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60493283ffc52f000710edae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a3-30d3-11ef-9cf5-
 
+e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=85e80dc7-d7c2-49ee-b346-20b976b1db9b
 #EXTINF:-1 tvg-chno-"29",SOLTELEVISION USA
 https://soltvusa.com/soltvsp/ngrp:soltelevisionsp_all/.m3u8
 
