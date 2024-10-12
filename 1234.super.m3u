@@ -54,7 +54,7 @@ https://tv.streaming-chile.com:1936/8142/8142/chunklist_w594836354.m3u8?WebM3UCL
 https://cdn.streamhispanatv.net:3819/live/tvflorencilive.m3u8
 
 #EXTINF:-1 tvg-chno-"19",DORA LA EXPLORADORA
-https://www.youtube.com/watch?v=OAVIDcTjuFw 
+https://www.youtube.com/watch?v=wNAC-RwrtOo
 
 #EXTINF:-1 tvg-chno-"20",MUNDO PEQUEÑO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366 
@@ -81,7 +81,7 @@ https://marine2.miplay.cl/ntv/tracks-v1a1/index.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3365
 
 #EXTINF:-1 tvg-chno-"28",YOU-TU TV KIDS
-https://www.youtube.com/watch?v=LwVAtBrxpRs
+https://www.youtube.com/watch?v=PJczD1-kpow
 
 #EXTINF:-1 tvg-chno-"29",SOLTELEVISION USA
 https://soltvusa.com/soltvsp/ngrp:soltelevisionsp_all/.m3u8
