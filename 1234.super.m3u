@@ -54,7 +54,7 @@ https://tv.streaming-chile.com:1936/8142/8142/chunklist_w594836354.m3u8?WebM3UCL
 https://cdn.streamhispanatv.net:3819/live/tvflorencilive.m3u8
 
 #EXTINF:-1 tvg-chno-"19",DORA LA EXPLORADORA
-https://www.youtube.com/watch?v=wNAC-RwrtOo
+https://www.youtube.com/watch?v=XLpvBKc_WB0
 
 #EXTINF:-1 tvg-chno-"20",MUNDO PEQUEÑO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366 
@@ -81,10 +81,10 @@ https://marine2.miplay.cl/ntv/tracks-v1a1/index.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3365
 
 #EXTINF:-1 tvg-chno-"28",YOU-TU TV KIDS
-https://www.youtube.com/watch?v=PJczD1-kpow
+https://www.youtube.com/watch?v=mstB1C8mDsE&list=PLXJZReOlh8yIJ1WOULW4ZU9cmRmPbvwN3&index=6
 
 #EXTINF:-1 tvg-chno-"29",tvkids
-https://www.youtube.com/watch?v=71iVEEhLvL8&list=PLXJZReOlh8yIJ1WOULW4ZU9cmRmPbvwN3&index=2
+https://www.youtube.com/watch?v=8TaZIHu1Nho&list=PLXJZReOlh8yIJ1WOULW4ZU9cmRmPbvwN3&index=8
 
 #EXTINF:-1 tvg-chno-"30",NICK CLASSIC 1
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8
