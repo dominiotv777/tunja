@@ -80,17 +80,17 @@ https://marine2.miplay.cl/ntv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-chno-"27", MOONBUG KIDS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3365
 
-#EXTINF:-1 tvg-chno-"28",YOU-TU TV KIDS
-https://www.youtube.com/watch?v=mstB1C8mDsE&list=PLXJZReOlh8yIJ1WOULW4ZU9cmRmPbvwN3&index=6
+#EXTINF:-1 tvg-chno-"28",PISTAS DE BLUE
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9996533c9de3000759ccb5/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-chno-"29",tvkids
-https://www.youtube.com/watch?v=8TaZIHu1Nho&list=PLXJZReOlh8yIJ1WOULW4ZU9cmRmPbvwN3&index=8
+#EXTINF:-1 tvg-chno-"29",PT TV JUNIOR
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-chno-"30",NICK CLASSIC 1
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8
 
-#EXTINF:-1 tvg-chno-"31",UNIVISION MEX
-https://glb.bozztv.com/glb/ssh101/0280/index.m3u8
+#EXTINF:-1 tvg-chno-"31",PT TV KIDS
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-chno-"32",NICK CLASICO 2
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner= 
