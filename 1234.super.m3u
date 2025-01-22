@@ -122,11 +122,11 @@ https://www.animeonegai.com/es/watch/pbJnqbrrno0keC2pm
 #EXTINF:-1 tvg-chno-"31",agenda56
 https://cloudflare.streamgato.us:3436/live/agenda56tvlive.m3u8
 
-#EXTINF:-1 tvg-chno-"32",VISION TV RD
-https://cloudflare.streamgato.us:3750/live/tvvisionlive.m3u8
+#EXTINF:-1 tvg-chno-"32",tubi crimenez
+https://csm-e-cetubiausw2live204-02b23b9a00cc87edb.csm.tubi.video/csm/live/726943606/5.m3u8;jsessionid=5641
 
-#EXTINF:-1 tvg-chno-"32",VALLEVISION
-https://streaming.telecablecentral.com.do/Vallevision/ValleHD/.m3u8 
+#EXTINF:-1 tvg-chno-"32",tubi cri
+https://csm-e-cetubiausw2live204-02b23b9a00cc87edb.csm.tubi.video/csm/live/726943606/5.m3u8;jsessionid=5641C989EF3361978993A1C4F85E921A.csm-e-cetubiausw2live204-02b23b9a00cc87edb.csm.tubi.video?playback_start_ts=1737579762&yo.ap=https://lna.tubi.video/prd-yospace/&yo.t.jt=1000&app_id=tubitv&app_mode=DEFAULT_MODE&container_id=originales_de_tubi&content_id=400000115&content_type=mp4&device_id=ce18666e-052d-48f6-a3e5-927feea3def5&language=es&now_pos=0&origin=container&platform=WEB&pub_id=2e2a2303850f0a712d5d71ecdcbbf8de&vpaid_enabled=false&yo.eb.fb=aHR0cHM6Ly9saXZlLW1hbmlmZXN0LnByb2R1Y3Rpb24tcHVibGljLnR1YmkuaW8vbGl2ZS85NTdkMDBjMi1mNTgxLTRlYzEtYTQ5Zi1mNTcxYWQzMGZhYTgvcGxheWxpc3QubTN1OD90b2tlbj1leUpoYkdjaU9pSklVelV4TWlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamIzVnVkSEo1SWpvaVRWZ2lMQ0prWlhacFkyVmZhV1FpT2lKalpURTROalkyWlMwd05USmtMVFE0WmpZdFlUTmxOUzA1TWpkbVpXVmhNMlJsWmpVaUxDSmxlSEFpT2pFM016YzRNemM1T1RZc0ltbHpjeUk2SW14cGRtVmZibVYzYzE5dFlXNXBabVZ6ZENJc0luQnNZWFJtYjNKdElqb2lWMFZDSWl3aWNuTnpJam9pY21NaUxDSjFjMlZ5WDJsa0lqb3dmUS5GNDU4TGtVb0I4T0xVeU1FUlpiRzdBalA2R2t5SC10dGVCMHNfMnhhTEtKejM3N2FSRlpHdGdaNXhkampEUHM2T0M1OGwxQmRWekRBcTNya3U5M1RmZw==
 
 #EXTINF:-1 tvg-chno-"33",DELTA
 https://cm.hostlagarto.com:4445/deltatv/deltatv50.myStream/chunks.m3u8 
