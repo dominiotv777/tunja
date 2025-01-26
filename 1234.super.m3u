@@ -1,4 +1,4 @@
-#EXTM3U
+de#EXTM3U
 #EXTINF:-1 tvg-chno-"1",MEGA TV CR
 https://glb.bozztv.com/glb/ssh101/megatvcr2024/tracks-v1a1/index.m3u8
 
@@ -347,8 +347,8 @@ http://cloudvideo.servers10.com:8081/8212/index.m3u8
 #EXTINF:-1 tvg-chno-"63",viwix 2
 https://cloudvideo.servers10.com:8081/8212/index.m3u8 
 
-#EXTINF:-1 tvg-chno-"63",leon
-https://youtu.be/TGhqUJSJZb4?si=W_5rrIn0wDoMh-RJ
+#EXTINF:-1 tvg-chno-"63",v n
+https://www.youtube.com/live/L0fKaKCoOLE?si=Yz5s9Eb6pDL9vxx8
 
 
 
