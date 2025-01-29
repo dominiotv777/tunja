@@ -110,9 +110,9 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/.m3u8
 #EXTINF:-1 tvg-chno-"28",OMEGA 1
 https://panel.miplay.cl:8081/tvn/index.m3u8
 
-#EXTINF:-1 tvg-chno-"29",TVN
-https://panel.miplay.cl:8081/tvn/index.m3u8?PlaylistM3UCL
-
+#EXTINF:-1 tvg-chno-"29",CARACOL
+https://co-e7-p-e-ja2.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/3Ebd2aE8T7m6c5CbXXUnmQ/stream/b9b9f086-183e-47cc-ae33-8ef4524d801b:MRN2/variant/391731030074916d4aeacf7513b071cb/bandwidth/1847841.m3u8?aid=589b1365f30bc52f54100dd8&uid=Mi590HTNnDHkwF8PLDWEbQEun0cDGADb&sid=FCeZOfFn3tagilZRyEQMpXJZ1bkZznIQ&pid=3YSZNv3jIKI25ll1kbwCVAZp2Bn9y9qF&ref=https%3A%2F%2Fwww.noticiascaracol.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=qFBAXJV922wL2hF1QWdUb43Y8LoZDWbpsLYRVrgoLP46lONtCwDTwlrRFVEjmqEEXPGoQ9Gt6kV&adInsertionGoogleStreamId=b9b9f086-183e-47cc-ae33-8ef4524d801b%3AMRN2&es=co-e7-p-e-ja2.cdn.mdstrm.com&ote=1738193824858&ot=Tdq7yNN4jg93_7RMqjv3Sw&proto=https&pz=us
+ 
 #EXTINF:-1 tvg-chno-"30",OMEGA 3
 https://stream-us-east-1.getpublica.com/cl/250117cu584kbveofpd15agpkg/1280x720_3440800_0_f.m3u8?i=586_11061
 
