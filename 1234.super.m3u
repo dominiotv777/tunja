@@ -113,8 +113,8 @@ https://panel.miplay.cl:8081/tvn/index.m3u8
 #EXTINF:-1 tvg-chno-"29",CARACOL.ex
 https://co-e7-p-e-ja2.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/3Ebd2aE8T7m6c5CbXXUnmQ/stream/cb2a7f65-b5cc-4dc6-91c3-7343eaa01f9f:MRN2/variant/4c64e507a941ce22f83648aeac7c24ad/bandwidth/614829.m3u8?  aid=589b1365f30bc52f54100dd8&uid=nDIbI933nZF65woiEKrugIiFOYybrGDF&sid=gBn90e758P5tRJ2GGcVWryrzCpT8YZdl&pid=ixA4kTwRbThWiShyciy3xUhF9cjlS4xr&ref=https%3A%2F%2Fwww.noticiascaracol.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=jaHHmcppx32CCPLuVrmRDA2FnCQPConlVMRfpqTGf9PeD0sIWhQmei3eyoSCIbrFldMDSKhUfwJ&adInsertionGoogleStreamId=cb2a7f65-b5cc-4dc6-91c3-7343eaa01f9f%3AMRN2&es=co-e7-p-e-ja2.cdn.mdstrm.com&ote=1738799446101&ot=hRqFfk9HnlAoejEA7Pccng&proto=https&pz=us/614829.m3u8?  
 
-#EXTINF:-1 tvg-chno-"30",rcn
-https://stream-us-east-1.getpublica.com/cl/250117cu584kbveofpd15agpkg/1280x720_3440800_0_f.m3u8?i=586_11061
+#EXTINF:-1 tvg-chno-"30",caracol
+https://co-e7-p-e-ja2.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/3Ebd2aE8T7m6c5CbXXUnmQ/stream/cb2a7f65-b5cc-4dc6-91c3-7343eaa01f9f:MRN2/variant/4c64e507a941ce22f83648aeac7c24ad/bandwidth/614829.m3u8
 
 #EXTINF:-1 tvg-chno-"31",OMEGA 4
 https://www.animeonegai.com/es/watch/pbJnqbrrno0keC2pm
