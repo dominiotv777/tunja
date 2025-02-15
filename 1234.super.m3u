@@ -104,26 +104,26 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d3
 #EXTINF:-1 tvg-chno-"26",WTV NICARAGUA
 https://cloudvideo.servers10.com:8081/8130/tracks-v1a1/index.m3u8 
 
-#EXTINF:-1 tvg-chno-"27",ATV MAS
-https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/.m3u8
+#EXTINF:-1 tvg-chno-"27",DINO RANCH
+https://www.youtube.com/watch?v=hWp_CNv2DS0
 
-#EXTINF:-1 tvg-chno-"28",caracol 1
-https://mdstrm.com/live-stream-playlist/cb2a7f65-b5cc-4dc6-91c3-7343eaa01f9f.m3u8
+#EXTINF:-1 tvg-chno-"28",LABRADOR 1
+https://www.youtube.com/watch?v=cJmLnZFlHdQ
 
-#EXTINF:-1 tvg-chno-"29",CARACOL.ex
-https://co-e7-p-e-ja2.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/3Ebd2aE8T7m6c5CbXXUnmQ/stream/cb2a7f65-b5cc-4dc6-91c3-7343eaa01f9f:MRN2/variant/4c64e507a941ce22f83648aeac7c24ad/bandwidth/614829.m3u8?  aid=589b1365f30bc52f54100dd8&uid=nDIbI933nZF65woiEKrugIiFOYybrGDF&sid=gBn90e758P5tRJ2GGcVWryrzCpT8YZdl&pid=ixA4kTwRbThWiShyciy3xUhF9cjlS4xr&ref=https%3A%2F%2Fwww.noticiascaracol.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=jaHHmcppx32CCPLuVrmRDA2FnCQPConlVMRfpqTGf9PeD0sIWhQmei3eyoSCIbrFldMDSKhUfwJ&adInsertionGoogleStreamId=cb2a7f65-b5cc-4dc6-91c3-7343eaa01f9f%3AMRN2&es=co-e7-p-e-ja2.cdn.mdstrm.com&ote=1738799446101&ot=hRqFfk9HnlAoejEA7Pccng&proto=https&pz=us/614829.m3u8?  
+#EXTINF:-1 tvg-chno-"29",LABRADOR 2
+https://www.youtube.com/watch?v=eMRwcDalVJM
 
-#EXTINF:-1 tvg-chno-"30",caracol
-https://co-e7-p-e-ja2.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/3Ebd2aE8T7m6c5CbXXUnmQ/stream/cb2a7f65-b5cc-4dc6-91c3-7343eaa01f9f:MRN2/variant/4c64e507a941ce22f83648aeac7c24ad/bandwidth/614829.m3u8
+#EXTINF:-1 tvg-chno-"30",BABY BUS
+https://www.youtube.com/watch?v=tS6D9ZaUcWk
 
-#EXTINF:-1 tvg-chno-"31",caracol 4
-chrome-extension://lcipembjfkmeggpihdpdgnjildgniffl/player.html#https://co-e7-p-e-ja2.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/3Ebd2aE8T7m6c5CbXXUnmQ/stream/cb2a7f65-b5cc-4dc6-91c3-7343eaa01f9f:MRN2/variant/4c64e507a941ce22f83648aeac7c24ad/bandwidth/614829.m3u8?aid=589b1365f30bc52f54100dd8&uid=nDIbI933nZF65woiEKrugIiFOYybrGDF&sid=gBn90e758P5tRJ2GGcVWryrzCpT8YZdl&pid=ixA4kTwRbThWiShyciy3xUhF9cjlS4xr&ref=https%3A%2F%2Fwww.noticiascaracol.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=jaHHmcppx32CCPLuVrmRDA2FnCQPConlVMRfpqTGf9PeD0sIWhQmei3eyoSCIbrFldMDSKhUfwJ&adInsertionGoogleStreamId=cb2a7f65-b5cc-4dc6-91c3-7343eaa01f9f%3AMRN2&es=co-e7-p-e-ja2.cdn.mdstrm.com&ote=1738799446101&ot=hRqFfk9HnlAoejEA7Pccng&proto=https&pz=us
+#EXTINF:-1 tvg-chno-"31",BABY BUS 2
+https://www.youtube.com/watch?v=ooxcWorBwNU&t=4s
 
-#EXTINF:-1 tvg-chno-"31",agenda56
-https://cloudflare.streamgato.us:3436/live/agenda56tvlive.m3u8
+#EXTINF:-1 tvg-chno-"31",BABY BUS 3
+https://www.youtube.com/watch?v=uXm1XTNEJa0&t=21491s
 
-#EXTINF:-1 tvg-chno-"32",tubi crimenes..
-https://csm-e-cetubiausw2live204-02b23b9a00cc87edb.csm.tubi/playlist.m3u8?network_id=5641
+#EXTINF:-1 tvg-chno-"32",TALKING
+https://www.youtube.com/watch?v=6L39lOJxJR4
 
 #EXTINF:-1 tvg-chno-"32",tubi cri
 https://csm-e-cetubiausw2live204-02b23b9a00cc87edb.csm.tubi.video/csm/live/726943606/5.m3u8;jsessionid=5641C989EF3361978993A1C4F85E921A.csm-e-cetubiausw2live204-02b23b9a00cc87edb.csm.tubi.video?playback_start_ts=1737579762&yo.ap=https://lna.tubi.video/prd-yospace/&yo.t.jt=1000&app_id=tubitv&app_mode=DEFAULT_MODE&container_id=originales_de_tubi&content_id=400000115&content_type=mp4&device_id=ce18666e-052d-48f6-a3e5-927feea3def5&language=es&now_pos=0&origin=container&platform=WEB&pub_id=2e2a2303850f0a712d5d71ecdcbbf8de&vpaid_enabled=false&yo.eb.fb=aHR0cHM6Ly9saXZlLW1hbmlmZXN0LnByb2R1Y3Rpb24tcHVibGljLnR1YmkuaW8vbGl2ZS85NTdkMDBjMi1mNTgxLTRlYzEtYTQ5Zi1mNTcxYWQzMGZhYTgvcGxheWxpc3QubTN1OD90b2tlbj1leUpoYkdjaU9pSklVelV4TWlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamIzVnVkSEo1SWpvaVRWZ2lMQ0prWlhacFkyVmZhV1FpT2lKalpURTROalkyWlMwd05USmtMVFE0WmpZdFlUTmxOUzA1TWpkbVpXVmhNMlJsWmpVaUxDSmxlSEFpT2pFM016YzRNemM1T1RZc0ltbHpjeUk2SW14cGRtVmZibVYzYzE5dFlXNXBabVZ6ZENJc0luQnNZWFJtYjNKdElqb2lWMFZDSWl3aWNuTnpJam9pY21NaUxDSjFjMlZ5WDJsa0lqb3dmUS5GNDU4TGtVb0I4T0xVeU1FUlpiRzdBalA2R2t5SC10dGVCMHNfMnhhTEtKejM3N2FSRlpHdGdaNXhkampEUHM2T0M1OGwxQmRWekRBcTNya3U5M1RmZw==
