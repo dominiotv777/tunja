@@ -1,24 +1,24 @@
 de#EXTM3U
-#EXTINF:-1 tvg-chno-"1",MEGA TV CR
-https://glb.bozztv.com/glb/ssh101/megatvcr2024/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-chno-"1",blue 1
+https://www.youtube.com/watch?v=AG5HnHE__5Y
 
-#EXTINF:-1 tvg-chno-"2",VATV MAX CARTOON
-https://glb.bozztv.com/glb/ssh101/maxcartoon/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-chno-"2",blue 2
+https://www.youtube.com/watch?v=SJ3LL71Mw3Q
 
-#EXTINF:-1 tvg-chno-"3",MONTE GRANDE TV
-https://fl1002.bozztv.com/ssh101/montegrandetv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-chno-"3",jorge 1
+https://www.youtube.com/watch?v=DoU942EJ37Q&list=PL08EcHdANEaUqj6TyrkXy-2ZZySnmnKzg
 
-#EXTINF:-1 tvg-chno-"4",TVISA
-https://glb.bozztv.com/glb/ssh101/oktvenvivo/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-chno-"4",jorge 2 
+https://www.youtube.com/watch?v=CiNzAGYCzV4&list=PL08EcHdANEaVU6YxpsLyhwVoEqYKUPmyM
 
-#EXTINF:-1 tvg-chno-"5",YISUS GO
-https://fl1002.bozztv.com/ssh101/yigo/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-chno-"5",jorge 3
+https://www.youtube.com/watch?v=MpqqDDbQhl8&list=PL08EcHdANEaWwxMXwKAOVUZMmvsm5So9w
 
-#EXTINF:-1 tvg-chno-"6",NG RADIO TV 
-https://5cb1ee4d59ac0.streamlock.net/ngradiotv/ngradiotv/playlist.m3u8
+#EXTINF:-1 tvg-chno-"6",jorge 4
+https://www.youtube.com/watch?v=MpqqDDbQhl8&list=PL08EcHdANEaWwxMXwKAOVUZMmvsm5So9w
 
-#EXTINF:-1 tvg-chno-"7", CANAL 20 GT
-https://desuchi.com/streams/live/tv.m3u8
+#EXTINF:-1 tvg-chno-"7", jorge 5
+https://www.youtube.com/watch?v=0ba_Zq_JYgU&list=PL08EcHdANEaWYj152wWV_tGfSUTQt5sA_
 
 #EXTINF:-1 tvg-chno-"8",COMUNICACIONES JIMENEZ
 https://ssh101.bozztv.com/ssh101/comunicaciones/chunks.m3u8
