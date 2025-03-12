@@ -1,57 +1,57 @@
 de#EXTM3U
 #EXTINF:-1 tvg-chno-"1",blue 1
-https://www.youtube.com/watch?v=AG5HnHE__5Y
-
-#EXTINF:-1 tvg-chno-"2",blue 2
-https://www.youtube.com/watch?v=SJ3LL71Mw3Q
-
-#EXTINF:-1 tvg-chno-"3",jorge 1
 https://www.youtube.com/watch?v=DoU942EJ37Q&list=PL08EcHdANEaUqj6TyrkXy-2ZZySnmnKzg
 
-#EXTINF:-1 tvg-chno-"4",jorge 2 
+#EXTINF:-1 tvg-chno-"2",blue 2
 https://www.youtube.com/watch?v=CiNzAGYCzV4&list=PL08EcHdANEaVU6YxpsLyhwVoEqYKUPmyM
 
-#EXTINF:-1 tvg-chno-"5",jorge 3
+#EXTINF:-1 tvg-chno-"3",jorge 3
 https://www.youtube.com/watch?v=MpqqDDbQhl8&list=PL08EcHdANEaWwxMXwKAOVUZMmvsm5So9w
 
-#EXTINF:-1 tvg-chno-"6",jorge 4
-https://www.youtube.com/watch?v=MpqqDDbQhl8&list=PL08EcHdANEaWwxMXwKAOVUZMmvsm5So9w
-
-#EXTINF:-1 tvg-chno-"7", jorge 5
+#EXTINF:-1 tvg-chno-"4",jorge 4 
 https://www.youtube.com/watch?v=0ba_Zq_JYgU&list=PL08EcHdANEaWYj152wWV_tGfSUTQt5sA_
 
-#EXTINF:-1 tvg-chno-"8",pistas de blue
-https://www.youtube.com/watch?v=71iVEEhLvL8&list=PLXJZReOlh8yIJ1WOULW4ZU9cmRmPbvwN3
+#EXTINF:-1 tvg-chno-"5",jorge 5
+https://www.youtube.com/watch?v=_6YGpuzSuGs&list=PL08EcHdANEaWf4aHDNPeOcaxCh3sbAbXt
+
+#EXTINF:-1 tvg-chno-"6",jorge 6
+https://www.youtube.com/watch?v=t7VC_ZVUScE&list=PL08EcHdANEaUtc7SrZvdTQupIbdClgXfX
+
+#EXTINF:-1 tvg-chno-"7", jorge 7
+https://www.youtube.com/watch?v=YrYUgLIB6kM&list=PL08EcHdANEaW0xFS20qRVNYxzt1hVL_ar
+
+#EXTINF:-1 tvg-chno-"8",jorge 8
+https://www.youtube.com/watch?v=CAb0-CysHeA&list=PL08EcHdANEaUNdpXuj8uPgZRRWkiTUeOw
 
 #EXTINF:-1 tvg-chno-"9",lazi town 4
 https://www.youtube.com/watch?v=DAvaiqCbN8Y
 
-#EXTINF:-1 tvg-chno-"10"lazi town 5
+#EXTINF:-1 tvg-chno-"10",lazi town 5
 https://www.youtube.com/watch?v=IccP_ATXy_A
  
 #EXTINF:-1 tvg-chno-"11",lazi town 6
 https://www.youtube.com/watch?v=np57rD4Y_lI
 
-#EXTINF:-1 tvg-chno-"12",canal 100 chinique
-https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
+#EXTINF:-1 tvg-chno-"12",blue 1
+https://www.youtube.com/watch?v=AG5HnHE__5Y
 
-#EXTINF:-1 tvg-chno-"13",ixchiguan
-https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8  
+#EXTINF:-1 tvg-chno-"13",blue 2
+https://www.youtube.com/watch?v=SJ3LL71Mw3Q 
 
-#EXTINF:-1 tvg-chno-"14",TELEBOCONO
-https://ssh101.bozztv.com/ssh101/tcbstreaming/chunks.m3u8 
+#EXTINF:-1 tvg-chno-"14",pistas de blue
+https://www.youtube.com/watch?v=71iVEEhLvL8&list=PLXJZReOlh8yIJ1WOULW4ZU9cmRmPbvwN3
 
-#EXTINF:-1 tvg-chno-"15",CGTVE
-https://ssh101.bozztv.com/ssh101/cgtve/chunks.m3u8
+#EXTINF:-1 tvg-chno-"15",tg googles
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 
-#EXTINF:-1 tvg-chno-"16",WOW MOVIES
-https://ssh101.bozztv.com/ssh101/wowchannelsd/chunks.m3u8  
+#EXTINF:-1 tvg-chno-"16",pequerradio
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8 
 
-#EXTINF:-1 tvg-chno-"17",+CINE 4.
-https://tv.streaming-chile.com:1936/8142/8142/chunklist_w594836354.m3u8?WebM3UCL
+#EXTINF:-1 tvg-chno-"17",canela junior
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 
-#EXTINF:-1 tvg-chno-"18",TV FLORENCIA GT
-https://cdn.streamhispanatv.net:3819/live/tvflorencilive.m3u8
+#EXTINF:-1 tvg-chno-"18",logos kids
+https://streamer1.streamhost.org/salive/logoskidsH/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno-"19",DORA LA EXPLORADORA
 https://www.youtube.com/watch?v=XLpvBKc_WB0
@@ -68,8 +68,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 #EXTINF:-1 tvg-chno-"23",extrema kids
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8  
 
-#EXTINF:-1 tvg-chno-"24",planeta aventuras
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311
+#EXTINF:-1 tvg-chno-"24",boing
+http://185.189.225.150:85/boing/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-chno-"25",planeta familia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310     
