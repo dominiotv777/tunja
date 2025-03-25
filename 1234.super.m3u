@@ -1,27 +1,27 @@
 de#EXTM3U
-#EXTINF:-1 tvg-chno-"1",JORGE 1
-https://www.youtube.com/watch?v=DoU942EJ37Q&list=PL08EcHdANEaUqj6TyrkXy-2ZZySnmnKzg
-
-#EXTINF:-1 tvg-chno-"2",JORGE 2
+#EXTINF:-1 tvg-chno-"1",JORGE 3.1
 https://www.youtube.com/watch?v=CiNzAGYCzV4&list=PL08EcHdANEaVU6YxpsLyhwVoEqYKUPmyM
 
-#EXTINF:-1 tvg-chno-"3",jorge 3
-https://www.youtube.com/watch?v=MpqqDDbQhl8&list=PL08EcHdANEaWwxMXwKAOVUZMmvsm5So9w
+#EXTINF:-1 tvg-chno-"2",JORGE 3.2
+https://www.youtube.com/watch?v=UyMFKh9bpg0&list=PL08EcHdANEaVU6YxpsLyhwVoEqYKUPmyM&index=2
 
-#EXTINF:-1 tvg-chno-"4",jorge 4 
-https://www.youtube.com/watch?v=0ba_Zq_JYgU&list=PL08EcHdANEaWYj152wWV_tGfSUTQt5sA_
+#EXTINF:-1 tvg-chno-"3",jorge 4.2
+https://www.youtube.com/watch?v=AUSC7OHtu_E&list=PL08EcHdANEaWwxMXwKAOVUZMmvsm5So9w&index=2
 
-#EXTINF:-1 tvg-chno-"5",jorge 5
-https://www.youtube.com/watch?v=_6YGpuzSuGs&list=PL08EcHdANEaWf4aHDNPeOcaxCh3sbAbXt
+#EXTINF:-1 tvg-chno-"4",jorge 4.3 
+https://www.youtube.com/watch?v=lQ_KEDgkfXs&list=PL08EcHdANEaWwxMXwKAOVUZMmvsm5So9w&index=3
 
-#EXTINF:-1 tvg-chno-"6",jorge 6
-https://www.youtube.com/watch?v=t7VC_ZVUScE&list=PL08EcHdANEaUtc7SrZvdTQupIbdClgXfX
+#EXTINF:-1 tvg-chno-"5",jorge 4.4
+https://www.youtube.com/watch?v=2reQnKH6ECg&list=PL08EcHdANEaWwxMXwKAOVUZMmvsm5So9w&index=4
 
-#EXTINF:-1 tvg-chno-"7", jorge 7
-https://www.youtube.com/watch?v=YrYUgLIB6kM&list=PL08EcHdANEaW0xFS20qRVNYxzt1hVL_ar
+#EXTINF:-1 tvg-chno-"6",jorge 4.5
+https://www.youtube.com/watch?v=Q5-GNY81CoY&list=PL08EcHdANEaWwxMXwKAOVUZMmvsm5So9w&index=5
 
-#EXTINF:-1 tvg-chno-"8",jorge 8
-https://www.youtube.com/watch?v=CAb0-CysHeA&list=PL08EcHdANEaUNdpXuj8uPgZRRWkiTUeOw
+#EXTINF:-1 tvg-chno-"7", jorge 4.6
+https://www.youtube.com/watch?v=jhrw2F2iQAM&list=PL08EcHdANEaWwxMXwKAOVUZMmvsm5So9w&index=6
+
+#EXTINF:-1 tvg-chno-"8",jorge 4.7
+https://www.youtube.com/watch?v=lGR8Ozg85bg&list=PL08EcHdANEaWwxMXwKAOVUZMmvsm5So9w&index=7
 
 #EXTINF:-1 tvg-chno-"9",lazi town 10
 https://www.youtube.com/watch?v=w-NcxBc1szo&list=PLRAgYYgFF1s-zlmuUAdEoBVsCrB1q2zV3&index=10
