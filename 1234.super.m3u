@@ -38,8 +38,8 @@ https://www.youtube.com/watch?v=HU8CsDXgl64
 #EXTINF:-1 tvg-chno-"13",MORPLHLE 3
 https://www.youtube.com/watch?v=S4609FJEwHc
 
-#EXTINF:-1 tvg-chno-"14",pistas de blue
-https://www.youtube.com/watch?v=71iVEEhLvL8&list=PLXJZReOlh8yIJ1WOULW4ZU9cmRmPbvwN3
+#EXTINF:-1 tvg-chno-"14",aniretro
+https://tv.streaming-chile.com:19360/8068/8068.m3u8
 
 #EXTINF:-1 tvg-chno-"15",tg googles
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
@@ -47,17 +47,17 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 #EXTINF:-1 tvg-chno-"16",pequerradio
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8 
 
-#EXTINF:-1 tvg-chno-"17",canela junior
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
+#EXTINF:-1 tvg-chno-"17",zkids
+https://mitv.zplay.cl/Zkids/tracks-v1a1/index.ts.m3u8
 
 #EXTINF:-1 tvg-chno-"18",logos kids
 https://streamer1.streamhost.org/salive/logoskidsH/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno-"19",DORA LA EXPLORADORA
-https://www.youtube.com/watch?v=XLpvBKc_WB0
+#EXTINF:-1 tvg-chno-"19",FMHKIDS
+https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"20",MUNDO PEQUEÑO
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366 
+#EXTINF:-1 tvg-chno-"20",kanal 4
+https://5f700d5b2c46f.streamlock.net/knal4/knal4/playlits.m3u8   
 
 #EXTINF:-1 tvg-chno-"21",CLAN
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8 
