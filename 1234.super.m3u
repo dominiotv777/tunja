@@ -47,8 +47,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 #EXTINF:-1 tvg-chno-"16",pequerradio
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8 
 
-#EXTINF:-1 tvg-chno-"17",zkids
-https://mitv.zplay.cl/Zkids/tracks-v1a1/index.ts.m3u8
+#EXTINF:-1 tvg-chno-"17",zkids ex
+https://mitv.zplay.cl/Zkids/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-chno-"18",logos kids
 https://streamer1.streamhost.org/salive/logoskidsH/chunklist.m3u8
