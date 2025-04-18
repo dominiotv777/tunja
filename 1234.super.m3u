@@ -32,11 +32,11 @@ https://www.youtube.com/watch?v=1g5c-eUzDzc&list=PLRAgYYgFF1s-zlmuUAdEoBVsCrB1q2
 #EXTINF:-1 tvg-chno-"11",MORPLHLE 1
 https://www.youtube.com/watch?v=B62cUEZw7L8
 
-#EXTINF:-1 tvg-chno-"12",MORPLHLE 2
-https://www.youtube.com/watch?v=HU8CsDXgl64
+#EXTINF:-1 tvg-chno-"12",anime vision classic
+https://daiconnect.com/live/hls/tvup/tvfy-animevisionclassics/3a89a498229b9adc9cb8ed05535ab980/index.m3u8
 
-#EXTINF:-1 tvg-chno-"13",MORPLHLE 3
-https://www.youtube.com/watch?v=S4609FJEwHc
+#EXTINF:-1 tvg-chno-"13",zplay
+https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno-"14",aniretro
 https://tv.streaming-chile.com:19360/8068/8068.m3u8
