@@ -128,11 +128,11 @@ https://www.youtube.com/watch?v=6L39lOJxJR4
 #EXTINF:-1 tvg-chno-"43",DISNEY J
 https://www.youtube.com/watch?v=etR31CYL0p4
 
-#EXTINF:-1 tvg-chno-"33",DELTA
-https://cm.hostlagarto.com:4445/deltatv/deltatv50.myStream/chunks.m3u8 
+#EXTINF:-1 tvg-chno-"44",CARACOL
+https://stream.gia.tv/giatv/giatv-c1mayten/c1mayten/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"34",TENARENSES
-https://vdo2.streamgato.us:3541/live/tenarensestvlive.m3u8 
+#EXTINF:-1 tvg-chno-"34",GOL CARACOL
+https://stream.gia.tv/giatv/giatv-c2mayten/c2mayten/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"35",SUPER TV TUISMIL
 https://cdn.streamhispanatv.net:3586/live/tuismillive.m3u8 
