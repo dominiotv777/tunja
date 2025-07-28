@@ -125,8 +125,8 @@ http://iptv.streamhispanatv.net:8080/playgt/playgt2023/64
 #EXTINF:-1 tvg-chno-"42",gtv gt 2
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/513
 
-#EXTINF:-1 tvg-chno-"43",DISNEY J
-https://www.youtube.com/watch?v=etR31CYL0p4
+#EXTINF:-1 tvg-chno-"43",FS2
+http://23.237.104.106:8080/USA_FS2/index.m3u8
 
 #EXTINF:-1 tvg-chno-"44",CARACOL
 https://stream.gia.tv/giatv/giatv-c1mayten/c1mayten/chunks.m3u8
