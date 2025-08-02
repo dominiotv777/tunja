@@ -128,8 +128,8 @@ http://iptv.streamhispanatv.net:8080/playgt/playgt2023/513
 #EXTINF:-1 tvg-chno-"43",FS2
 http://23.237.104.106:8080/USA_FS2/index.m3u8
 
-#EXTINF:-1 tvg-chno-"44",CARACOL
-https://stream.gia.tv/giatv/giatv-c1mayten/c1mayten/chunks.m3u8
+#EXTINF:-1 tvg-chno-"44",FS1
+http://23.237.104.106:8080/USA_FS1/index.m3u8
 
 #EXTINF:-1 tvg-chno-"34",GOL CARACOL
 https://stream.gia.tv/giatv/giatv-c2mayten/c2mayten/chunks.m3u8
