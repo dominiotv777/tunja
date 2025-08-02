@@ -131,11 +131,11 @@ http://23.237.104.106:8080/USA_FS2/index.m3u8
 #EXTINF:-1 tvg-chno-"44",FS1
 http://23.237.104.106:8080/USA_FS1/index.m3u8
 
-#EXTINF:-1 tvg-chno-"34",GOL CARACOL
-https://stream.gia.tv/giatv/giatv-c2mayten/c2mayten/chunks.m3u8
+#EXTINF:-1 tvg-chno-"34",TUDN
+http://190.61.102.67:2000/play/a08j/index.m3u8
 
-#EXTINF:-1 tvg-chno-"35",SUPER TV TUISMIL
-https://cdn.streamhispanatv.net:3586/live/tuismillive.m3u8 
+#EXTINF:-1 tvg-chno-"35",TUDN 2
+https://dvrfl03.bozztv.com/hondu-canal12/index.m3u8
 
 #EXTINF:-1 tvg-chno-"36",PERUVIANRADIO TV 
 https:\\stmv.panel.grupolimalive.com\peruviantv\peruviantv\playlist.m3u8
