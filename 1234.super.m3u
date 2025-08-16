@@ -161,30 +161,117 @@ http://190.102.246.93:9005/play/a02m/index.m3u8
 #EXTINF:-1 tvg-chno-"43",ESPN BRASIL
 http://authxplus-2.xyz:2082/live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1005.m3u8
 
-#EXTINF:-1 tvg-chno-"44",VISION NDV
-https://cloudflare.streamgato.us:3171/live/visionndvlive.m3u8
-
-#EXTINF:-1 tvg-chno-"45",ltv cl
-https://medios.sirtel.cl/live/stream/index.m3u8
-
-#EXTINF:-1 tvg-chno-"46",GENIOS TV 
-http://live.obslivestream.com/geniostvmux/index.m3u8  
-
-#EXTINF:-1 tvg-chno-"47",TELENORD 12
-http://newyorkstream.ddns.net:5854/telenord12/telenord12/.m3u8
-
-#EXTINF:-1 tvg-chno-"48",TELESUR COSTA RICA
+#EXTINF:0,FOX Sports (España) (🇪🇸)
+http://181.78.106.127:9000/play/ca031/index.m3u8
+#EXTINF:0,FOX Sports (Mexico) (🇲🇽)
+http://200.115.120.1:8000/play/ca041/index.m3u8
+#EXTINF:0,FOX Sports (USA) (🇺🇸)
+https://apollo.production-public.tubi.io/live/fox-sports.m3u8
+#EXTINF:0,FOX Sports 1 (España) (🇪🇸)
+http://191.52.214.5:8000/play/a03u/index.m3u8
+#EXTINF:0,FOX Sports Espanol (Mexico) (🇲🇽)
+https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
+#EXTINF:0,FOX Sports Español (España) (🇪🇸)
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.
 https://59ef525c24caa.streamlock.net/telesur/telesur/.m3u8  
-
-#EXTINF:-1 tvg-chno-"46",CAJAMARCA
-http://tv.siete.us/cajamarcatv/cajamarcatv/index.m3u8  
-
-#EXTINF:-1 tvg-chno-"47",c21
-https://tls.cdnz.cl/canal21tv/live/.m3u8   
-
-#EXTINF:-1 tvg-chno-"48",AME47
-https://ss9.domint.net:3040/ame_str/amecanal47/.m3u8
-
+#EXTINF:0,ESPN (Argentina) (🇦🇷)
+http://181.78.106.127:9000/play/ca033/index.m3u8
+#EXTINF:0,ESPN (Brasil/Portugal) (🇧🇷🇵🇹)
+http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/1?extension=m3u8
+#EXTINF:0,ESPN (Chile) (🇨🇱)
+http://38.180.133.31:8000/play/a0tb/index.m3u8
+#EXTINF:0,ESPN (Colombia) (🇨🇴)
+http://38.180.133.31:8000/play/a0wa/index.m3u8
+#EXTINF:0,ESPN (España) (🇪🇸)
+http://191.52.214.5:8000/play/a02s/index.m3u8
+#EXTINF:0,ESPN (Mexico) (🇲🇽)
+http://181.78.82.6:46090/play/a00q/index.m3u8
+#EXTINF:0,ESPN (USA) (🇺🇸)
+https://fl5.moveonjoy.com/ESPN/index.m3u8
+#EXTINF:0,ESPN 2 (Argentina) (🇦🇷)
+http://38.180.133.31:8000/play/a0w4/index.m3u8
+#EXTINF:0,ESPN 2 (Brasil/Portugal) (🇧🇷🇵🇹)
+http://244285498241827462.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/827462.ts?extension=m3u8
+#EXTINF:0,ESPN 2 (Canada) (🇨🇦)
+http://tvmate.icu:8080/nCqH8t/631017/2210?extension=m3u8
+#EXTINF:0,ESPN 2 (Chile) (🇨🇱)
+http://191.52.214.5:8000/play/a027/index.m3u8
+#EXTINF:0,ESPN 2 (Colombia) (🇨🇴)
+http://181.78.106.127:9000/play/ca034/index.m3u8
+#EXTINF:0,ESPN 2 (España) (🇪🇸)
+http://181.78.82.6:46090/play/a00i/index.m3u8
+#EXTINF:0,ESPN 2 (Mexico) (🇲🇽)
+http://181.78.105.146:8800/play/a08t/index.m3u8
+#EXTINF:0,ESPN 2 (USA) (🇺🇸)
+https://fl5.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:0,ESPN 3 (Argentina) (🇦🇷)
+http://181.78.105.146:8800/play/a053/index.m3u8
+#EXTINF:0,ESPN 3 (Brasil/Portugal) (🇧🇷🇵🇹)
+http://authxplus-2.xyz:2082/live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/126.m3u8
+#EXTINF:0,ESPN 3 (Chile) (🇨🇱)
+http://190.102.246.93:9005/play/a02l/index.m3u8
+#EXTINF:0,ESPN 3 (Colombia) (🇨🇴)
+http://191.52.214.5:8000/play/a025/index.m3u8
+#EXTINF:0,ESPN 3 (España) (🇪🇸)
+http://38.180.133.31:8000/play/a0w5/index.m3u8
+#EXTINF:0,ESPN 3 (Mexico) (🇲🇽)
+http://181.78.82.6:46090/play/a00v/index.m3u8
+#EXTINF:0,ESPN 3 (Peru) (🇵🇪)
+http://190.61.42.218:9000/play/a061/index.m3u8
+#EXTINF:0,ESPN 4 (Brasil/Portugal) (🇧🇷🇵🇹)
+http://244285498241827465.ofds1114.xyz:80/live/zh917087/utFFceNB@SQ/827465.ts?extension=m3u8
+#EXTINF:0,ESPN 4 (Brasil/Portugal) (🇧🇷🇵🇹)
+http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/143?extension=m3u8
+#EXTINF:0,ESPN 4 (Colombia) (🇨🇴)
+http://38.180.133.31:8000/play/a0wd/index.m3u8
+#EXTINF:0,ESPN 4 (España) (🇪🇸)
+http://190.102.246.93:9005/play/a019/index.m3u8
+#EXTINF:0,ESPN 4 (Mexico) (🇲🇽)
+http://181.78.106.127:9000/play/ca036/index.m3u8
+#EXTINF:0,ESPN 5 (Brasil/Portugal) (🇧🇷🇵🇹)
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/140?extension=m3u8
+#EXTINF:0,ESPN 5 (España) (🇪🇸)
+http://190.83.2.172:8081/play/a07g/index.m3u8
+#EXTINF:0,ESPN 5 (Mexico) (🇲🇽)
+http://38.180.133.31:8000/play/a0w7/index.m3u8
+#EXTINF:0,ESPN 6 (Argentina) (🇦🇷)
+http://190.102.246.93:9005/play/a02m/index.m3u8
+#EXTINF:0,ESPN 6 (Brasil/Portugal) (🇧🇷🇵🇹)
+http://authxplus-2.xyz:2082/live/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/1005.m3u8
+#EXTINF:0,ESPN 6 (Chile) (🇨🇱)
+http://181.78.82.6:46090/play/a00w/index.m3u8
+#EXTINF:0,ESPN 6 (Colombia) (🇨🇴)
+http://190.61.42.218:9000/play/a062/index.m3u8
+#EXTINF:0,ESPN 6 (España) (🇪🇸)
+http://181.78.105.146:8800/play/a056/index.m3u8
+#EXTINF:0,ESPN 6 (Mexico) (🇲🇽)
+http://38.180.133.31:8000/play/a0qo/index.m3u8
+#EXTINF:0,ESPN 6 (Peru) (🇵🇪)
+http://191.52.214.5:8000/play/a026/index.m3u8
+#EXTINF:0,ESPN 7 (España) (🇪🇸)
+http://nxt.plus:8080/jesus01/jesus01/13229
+#EXTINF:0,ESPN Deportes (España) (🇪🇸)
+http://190.92.10.66:4000/play/a003/index.m3u8
+#EXTINF:0,ESPN News (USA) (🇺🇸)
+https://fl5.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:0,ESPN Premium (Colombia) (🇨🇴)
+http://45.184.87.142:8000/play/a045/index.m3u8
+#EXTINF:0,ESPN Premium (España) (🇪🇸)
+http://190.123.90.146:8000/play/a00f/index.m3u8
+#EXTINF:0,ESPN Premium (Mexico) (🇲🇽)
+http://190.102.246.93:9005/play/a00x/index.m3u8
+#EXTINF:0,ESPN U (USA) (🇺🇸)
+https://fl5.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:0,Esport 3 (España) (🇪🇸)
+https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+#EXTINF:0,Esportes Brasilia (Brasil) (🇧🇷)
+https://a.cdni.live/radioesporte/radioesporte/.m3u8
+#EXTINF:0,Esports Max (Venezuela) (🇻🇪)
+http://vcpar.myplaytv.com/esportsmax/live/.m3u8
+#EXTINF:0,Esquipulas (Guatemala) (🇬🇹)
+https://tv91.hostingnuclear.com:19360/esquipulastv/esquipulastv.m3u8
+#EXTINF:0,ESR eSports Network (USA) (🇺🇸)
+https://eyeonesports.com/ES2RA-628g.m3u8
 #EXTINF:-1 tvg-chno-"49",boreal
 https://eu1.servers10.com:8081/8110/tracks-v1a1/mono.m3u8
 
