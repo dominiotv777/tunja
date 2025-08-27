@@ -284,35 +284,49 @@ http://190.61.42.218:9000/play/a062/index.m3u8
 #EXTINF:0,ESPN 6 (España) (🇪🇸)95
 http://181.78.105.146:8800/play/a056/index.m3u8
 
-#EXTINF:0,ESPN 6 (Mexico) (🇲🇽)
+#EXTINF:0,ESPN 6 (Mexico) (🇲🇽) 96
 http://38.180.133.31:8000/play/a0qo/index.m3u8
-#EXTINF:0,ESPN 6 (Peru) (🇵🇪)
+
+#EXTINF:0,ESPN 6 (Peru) (🇵🇪) 97
 http://191.52.214.5:8000/play/a026/index.m3u8
-#EXTINF:0,ESPN 7 (España) (🇪🇸)
+
+#EXTINF:0,ESPN 7 (España) (🇪🇸)98
 http://nxt.plus:8080/jesus01/jesus01/13229
-#EXTINF:0,ESPN Deportes (España) (🇪🇸)
+
+#EXTINF:0,ESPN Deportes (España) (🇪🇸)99
 http://190.92.10.66:4000/play/a003/index.m3u8
-#EXTINF:0,ESPN News (USA) (🇺🇸)
+
+#EXTINF:0,ESPN News (USA) (🇺🇸)100
 https://fl5.moveonjoy.com/ESPN_NEWS/index.m3u8
-#EXTINF:0,ESPN Premium (Colombia) (🇨🇴)
+
+#EXTINF:0,ESPN Premium (Colombia) (🇨🇴)101
 http://45.184.87.142:8000/play/a045/index.m3u8
-#EXTINF:0,ESPN Premium (España) (🇪🇸)
+
+#EXTINF:0,ESPN Premium (España) (🇪🇸)102
 http://190.123.90.146:8000/play/a00f/index.m3u8
-#EXTINF:0,ESPN Premium (Mexico) (🇲🇽)
+
+#EXTINF:0,ESPN Premium (Mexico) (🇲🇽)103
 http://190.102.246.93:9005/play/a00x/index.m3u8
-#EXTINF:0,ESPN U (USA) (🇺🇸)
+
+#EXTINF:0,ESPN U (USA) (🇺🇸)104
 https://fl5.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:0,Esport 3 (España) (🇪🇸)
+
+#EXTINF:0,Esport 3 (España) (🇪🇸)105
 https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
-#EXTINF:0,Esportes Brasilia (Brasil) (🇧🇷)
+
+#EXTINF:0,Esportes Brasilia (Brasil) (🇧🇷)106
 https://a.cdni.live/radioesporte/radioesporte/.m3u8
-#EXTINF:0,Esports Max (Venezuela) (🇻🇪)
+
+#EXTINF:0,Esports Max (Venezuela) (🇻🇪)107
 http://vcpar.myplaytv.com/esportsmax/live/.m3u8
-#EXTINF:0,Esquipulas (Guatemala) (🇬🇹)
+
+#EXTINF:0,Esquipulas (Guatemala) (🇬🇹)108
 https://tv91.hostingnuclear.com:19360/esquipulastv/esquipulastv.m3u8
-#EXTINF:0,ESR eSports Network (USA) (🇺🇸)
+
+#EXTINF:0,ESR eSports Network (USA) (🇺🇸)109
 https://eyeonesports.com/ES2RA-628g.m3u8
-#EXTINF:-1 tvg-chno-"49",boreal
+
+#EXTINF:-1 tvg-chno-"49",boreal 110
 https://eu1.servers10.com:8081/8110/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno-"50",ready
