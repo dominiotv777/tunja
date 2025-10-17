@@ -341,23 +341,23 @@ http://179.1.87.75:8098/play/a0fh/index.m3u8
 #EXTINF:-1 tvg-chno-"54",espn 2 latin 114
 https://179.1.87.75:8098/play/a0ew/index.m3u8 
 
-#EXTINF:-1 tvg-chno-"55",xtvplus
-https://stmv.panel.grupolimalive.com/xtv/xtv/chunklist.m3u8
+#EXTINF:-1 tvg-chno-"55",espn 3 115
+https://179.1.87.75:8098/play/a0hn/index.m3u8
 
-#EXTINF:-1 tvg-chno-"56",IMAGEN TELEVISION
-http:\\191.97.56.183:1935\imagentv\imagentv\playlist.m3u8  
+#EXTINF:-1 tvg-chno-"56",espn 4 116
+http://179.1.87.75:8098/play/a0fu/index.m3u8 
 
-#EXTINF:-1 tvg-chno-"57",tv maule
-https://cloud2.streaminglivehd.com:1936/8002/8002/.m3u8 
+#EXTINF:-1 tvg-chno-"57",espn co 117
+https://179.1.87.75:8098/play/a0ge/index.m3u8 
 
-#EXTINF:-1 tvg-chno-"58",UNO VISION REO
-https://cdn.streamhispanatv.net:3834/live/unovireulive.m3u8  
+#EXTINF:-1 tvg-chno-"58",fox 2 118
+https://179.1.87.75:8098/play/a0fg/index.m3u8  
 
-#EXTINF:-1 tvg-chno-"59",cana tv digital
-https://hostokilive.com:19360/8002/8002.m3u8
+#EXTINF:-1 tvg-chno-"59",fox 3 119
+https://179.1.87.75:8098/play/a0fh/index.m3u8
 
-#EXTINF:-1 tvg-chno-"55",CANAL 8 CATACAOS 
-https://tvdatta.com:3838/live/canalcatacaoslive.m3u8 
+#EXTINF:-1 tvg-chno-"55",win 
+https://179.1.87.75:8098/play/a0he/index.m3u8
 
 #EXTINF:-1 tvg-chno-"56",rn12
 https://5ee0faac3bbae.streamlock.net/rntelevision/rntelevision/.m3u8 
