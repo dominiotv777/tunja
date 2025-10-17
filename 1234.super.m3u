@@ -356,29 +356,29 @@ https://179.1.87.75:8098/play/a0fg/index.m3u8
 #EXTINF:-1 tvg-chno-"59",fox 3 119
 https://179.1.87.75:8098/play/a0fh/index.m3u8
 
-#EXTINF:-1 tvg-chno-"55",espn 2 ex
+#EXTINF:-1 tvg-chno-"55",espn 2 ex 120
 http://mag.trexlive.me:8000/play/live.php?mac=00:1A:79:BE:B3:1A&stream=880316&extension=m3u8
 
-#EXTINF:-1 tvg-chno-"56",espn 3 ex
+#EXTINF:-1 tvg-chno-"56",espn 3 ex 121
 http://extraott.com:900/live/6945574629/7169628753/379046.m3u8
 
-#EXTINF:-1 tvg-chno-"57",espn 1 ex
+#EXTINF:-1 tvg-chno-"57",espn 1 ex 122
 http://1tv41.icu:8080/live/43761449506/smallwood/14197.m3u8 
 
-#EXTINF:-1 tvg-chno-"58",espn 2 ex
+#EXTINF:-1 tvg-chno-"58",espn 2 ex 123
 http://1tv41.icu:8080/live/43761449506/smallwood/2210.m3u8
 
-#EXTINF:-1 tvg-chno-"59",telecibao
-https://cm.hostlagarto.com:4445/Telecibao/Telecibao/chunks.m3u8
+#EXTINF:-1 tvg-chno-"59",sport tv ex 124
+http://fortv.cc:8080/live/cQnq6G/652882/167742.m3u8
 
-#EXTINF:-1 tvg-chno-"60",GUACARA TV
-https://cloudflare.streamgato.us:3103/live/guacaratvlive.m3u8 
+#EXTINF:-1 tvg-chno-"60",sport tv 2 125
+http://fortv.cc:8080/live/cQnq6G/652882/167743.m3u8 
 
-#EXTINF:-1 tvg-chno-"61",QUILLAVISION
-http:\\v4.tustreaming.cl\quillavision\index.m3u8 
+#EXTINF:-1 tvg-chno-"61",danz 1 126
+http://dream4ktv.net:80/play/live.php?mac=00:1a:79:d0:bf:09&stream=403744&extension=m3u8&play_token=5qs954mW9V
 
-#EXTINF:-1 tvg-chno-"62",SANTIVITO TELEVISION
-https://stmv1.srvif.com/sanvito/sanvito/.m3u8 
+#EXTINF:-1 tvg-chno-"62",SANTIVITO TELEVISION 127
+http://dream4ktv.net:80/play/live.php?mac=00:1a:79:d0:bf:09&stream=403745&extension=m3u8&play_token=5qs954mW9V
 
 #EXTINF:-1 tvg-chno-"63",CANAL 28 ALSACIAS 
 https://emisoras.hn:8081/atv/tracks-v1a1/mono.m3u8 
