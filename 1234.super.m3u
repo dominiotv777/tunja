@@ -335,8 +335,8 @@ http://189.216.247.113/Content/HLS/Live/Channel/Stream/index.m3u8
 #EXTINF:-1 tvg-chno-"52",espn 112
 http://189.216.247.113/Content/HLS/Live/Channel/ESPN_HD/Stream(06)/index.m3u8
 
-#EXTINF:-1 tvg-chno-"53",TV H
-https://paneltv.online:1936/8062/8062/.m3u8
+#EXTINF:-1 tvg-chno-"53",espnn 113
+http://179.1.87.75:8098/play/a0fh/index.m3u8
 
 #EXTINF:-1 tvg-chno-"54",sicardi
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8 
