@@ -380,8 +380,8 @@ http://dream4ktv.net:80/play/live.php?mac=00:1a:79:d0:bf:09&stream=403744&extens
 #EXTINF:-1 tvg-chno-"62",SANTIVITO TELEVISION 127
 http://dream4ktv.net:80/play/live.php?mac=00:1a:79:d0:bf:09&stream=403745&extension=m3u8&play_token=5qs954mW9V
 
-#EXTINF:-1 tvg-chno-"63",CANAL 28 ALSACIAS 
-https://emisoras.hn:8081/atv/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 tvg-chno-"63",128 sport tv 
+http://45.93.9.150/sportv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno-"60",GALAXIA TV
 http://amixtv.com:8080/galaxiatv/tracks-v1a1/mono.m3u8  
