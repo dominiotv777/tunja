@@ -329,11 +329,11 @@ https://eyeonesports.com/ES2RA-628g.m3u8
 #EXTINF:-1 tvg-chno-"49",boreal 110
 https://eu1.servers10.com:8081/8110/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno-"50",ready
-https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/.m3u8
+#EXTINF:-1 tvg-chno-"50",espn  111
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(06)/index.m3u8
 
-#EXTINF:-1 tvg-chno-"52",ATV MAS
-https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/chunklist_b1024000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMwODk0Mjc2LCJzZXNzaW9uIjoiMTgxLjU1LjcwLjI3Iiwid2hpdGVsaXN0IjpbIjE4MS41NS43MC4yNyJdfSwic2lnbmF0dXJlIjoiM2QxNTJhZTYwYmUxZTY2Y2RkYzQzZmNlZjgzMjlmYWY2YTBkYTRkYSJ9
+#EXTINF:-1 tvg-chno-"52",espn 112
+http://189.216.247.113/Content/HLS/Live/Channel/ESPN_HD/Stream(06)/index.m3u8
 
 #EXTINF:-1 tvg-chno-"53",TV H
 https://paneltv.online:1936/8062/8062/.m3u8
