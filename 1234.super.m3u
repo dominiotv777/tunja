@@ -329,8 +329,8 @@ https://eyeonesports.com/ES2RA-628g.m3u8
 #EXTINF:-1 tvg-chno-"49",boreal 110
 https://eu1.servers10.com:8081/8110/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno-"50",espn  111
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 tvg-chno-"50",espn  111.
+http://189.216.247.113/Content/HLS/Live/Channel/Stream/index.m3u8
 
 #EXTINF:-1 tvg-chno-"52",espn 112
 http://189.216.247.113/Content/HLS/Live/Channel/ESPN_HD/Stream(06)/index.m3u8
