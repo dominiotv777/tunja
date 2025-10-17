@@ -356,17 +356,17 @@ https://179.1.87.75:8098/play/a0fg/index.m3u8
 #EXTINF:-1 tvg-chno-"59",fox 3 119
 https://179.1.87.75:8098/play/a0fh/index.m3u8
 
-#EXTINF:-1 tvg-chno-"55",win 
-https://179.1.87.75:8098/play/a0he/index.m3u8
+#EXTINF:-1 tvg-chno-"55",espn 2 ex
+http://mag.trexlive.me:8000/play/live.php?mac=00:1A:79:BE:B3:1A&stream=880316&extension=m3u8
 
-#EXTINF:-1 tvg-chno-"56",rn12
-https://5ee0faac3bbae.streamlock.net/rntelevision/rntelevision/.m3u8 
+#EXTINF:-1 tvg-chno-"56",espn 3 ex
+http://extraott.com:900/live/6945574629/7169628753/379046.m3u8
 
-#EXTINF:-1 tvg-chno-"57",MULTIVISION RD
-https://cdn2.streamgato.us/canalmultivision/canalmultivision/playlist.m3u8 
+#EXTINF:-1 tvg-chno-"57",espn 1 ex
+http://1tv41.icu:8080/live/43761449506/smallwood/14197.m3u8 
 
-#EXTINF:-1 tvg-chno-"58",unika tv 2
-https://video.misistemareseller.com/unikatv/unikatv/.m3u8
+#EXTINF:-1 tvg-chno-"58",espn 2 ex
+http://1tv41.icu:8080/live/43761449506/smallwood/2210.m3u8
 
 #EXTINF:-1 tvg-chno-"59",telecibao
 https://cm.hostlagarto.com:4445/Telecibao/Telecibao/chunks.m3u8
