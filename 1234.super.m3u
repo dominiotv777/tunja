@@ -119,9 +119,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/chunks.m3u8
 #EXTINF:-1 tvg-chno-"40",DIGIMON
 https://live20.bozztv.com/giatvplayout7/giatv-209448/playlist.m3u8
 
-
-#EXTINF:-1 tvg-chno-"41",LEGO 2
-C:\Users\FAMILIA FELIZ\Videos\AnyDesk\Serie LEGO® DREAMZzz™ Episodio 1 _ Despertar.mp4
+#EXTINF:-1 tvg-chno-"41",ETC
+http://45.181.122.46:8090/play/a00t?PlaylistM3UCL
 
 #EXTINF:-1 tvg-chno-"42",gtv gt 2
 http://iptv.streamhispanatv.net:8080/playgt/playgt2023/513
