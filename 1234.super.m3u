@@ -47,20 +47,20 @@ https://www.youtube.com/watch?v=ChQ9d8WMkuk&list=PLst6vG42ifdrXZ3icQ1iG6hj_SZ3SW
 #EXTINF:-1 tvg-chno-"16",DREAMS 9
 https://www.youtube.com/watch?v=5hvEZ__m0Vw&list=PLst6vG42ifdrXZ3icQ1iG6hj_SZ3SWIOc&index=9
 
-#EXTINF:-1 tvg-chno-"17",dftv
-https://live20.bozztv.com/giatv/giatv-desiertofloridotvstream/desiertofloridotvstream/chunks.m3u8
+#EXTINF:-1 tvg-chno-"17",CLUB NICK JUNIOR
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe32livestitch/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=&profilesFromStream=true
 
 #EXTINF:-1 tvg-chno-"18",logos kids
 https://streamer1.streamhost.org/salive/logoskidsH/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno-"19",FMHKIDS
-https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids/chunks.m3u8
+https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/bitel/fmhkids_480p/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"20",kanal 4
-https://5f700d5b2c46f.streamlock.net/knal4/knal4/playlits.m3u8   
+#EXTINF:-1 tvg-chno-"20",TV NICK CLASICO 
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-chno-"21",CLAN
-https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8 
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_360.m3u8
 
 #EXTINF:-1 tvg-chno-"22",TG JUNIOR
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
@@ -68,8 +68,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 #EXTINF:-1 tvg-chno-"23",extrema kids
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8  
 
-#EXTINF:-1 tvg-chno-"24",NIKELODEON
-http://185.189.225.150:85/nickelodeon/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-chno-"24",RUGLAS
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-chno-"25",RETRO MAGICO
 https://ssh101.bozztv.com/ssh101/retromagicochnl/chunks.m3u8       
