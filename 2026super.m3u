@@ -122,8 +122,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-209448/playlist.m3u8
 #EXTINF:-1 tvg-chno-"41",ETC
 http://45.181.122.46:8090/play/a00t?PlaylistM3UCL
 
-#EXTINF:-1 tvg-chno-"42",gtv gt 2
-http://iptv.streamhispanatv.net:8080/playgt/playgt2023/513
+#EXTINF:-1 tvg-chno-"42",GRITOS
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/gritos-tv-by-trinian/40621eac-c658-46ad-8bb3-ccb778e6e2ba/2.m3u8
 
 #EXTINF:-1 tvg-chno-"43",FS2
 http://23.237.104.106:8080/USA_FS2/index.m3u8
