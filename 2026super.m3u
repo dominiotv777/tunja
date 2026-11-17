@@ -2,8 +2,8 @@ de#EXTM3U
 #EXTINF:-1 tvg-chno-"1",fmcosmos
 https://canaletaplus.com:3922/live/cosmoslive.m3u8  
 
-#EXTINF:-1 tvg-chno-"2",FRANKLIN. 58
-https://www.youtube.com/watch?v=r-xwYs-xBZc&list=PLjXyTw1_uY7NQbTvTWChxk9Qax1_1cYbV&index=58
+#EXTINF:-1 tvg-chno-"2",autentica
+https://live.obslivestream.com/autenticatvmux/tracks-v1a1/index.m3u8      
 
 #EXTINF:-1 tvg-chno-"3",FRANKLIN. 59
 https://www.youtube.com/watch?v=mPO8D2bsIMU&list=PLjXyTw1_uY7NQbTvTWChxk9Qax1_1cYbV&index=59
