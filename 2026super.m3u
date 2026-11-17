@@ -5,8 +5,8 @@ https://canaletaplus.com:3922/live/cosmoslive.m3u8
 #EXTINF:-1 tvg-chno-"2",autentica
 https://live.obslivestream.com/autenticatvmux/tracks-v1a1/index.m3u8      
 
-#EXTINF:-1 tvg-chno-"3",FRANKLIN. 59
-https://www.youtube.com/watch?v=mPO8D2bsIMU&list=PLjXyTw1_uY7NQbTvTWChxk9Qax1_1cYbV&index=59
+#EXTINF:-1 tvg-chno-"3",nativa chan peru
+https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8 
 
 #EXTINF:-1 tvg-chno-"4",DOKI 6
 https://www.youtube.com/watch?v=Se0dKD2UAzA&list=PLLJ3xFfI_8zjTn7ORry8qdq6w7J_GzJ_N&index=6
