@@ -1,1 +1,12 @@
+de#EXTM3U
+#EXTINF:-1 tvg-chno-"1",fmcosmos
+https://canaletaplus.com:3922/live/cosmoslive.m3u8  
 
+#EXTINF:-1 tvg-chno-"2",autentica
+https://live.obslivestream.com/autenticatvmux/tracks-v1a1/index.m3u8      
+
+#EXTINF:-1 tvg-chno-"3",nativa chan peru
+https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8 
+
+#EXTINF:-1 tvg-chno-"4",garavito cr
+https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
